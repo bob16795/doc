@@ -10,7 +10,7 @@
 In the column on the left hand side are 10 of the most essential terms for this unit’s content.  In the second column, write the definition on your own words. 
 
 - Federalism 
-  - When states have their own governmant
+  - When states have their own government
 - Constitution 
   - An agreement
 - Representation 
@@ -24,7 +24,7 @@ In the column on the left hand side are 10 of the most essential terms for this 
 - Taxes 
   - A charge on doing something
 - Sovereignty 
-  - Supream power or authority
+  - Supreme power or authority
 - Liberty 
   - To be free in society
 - Compromise 

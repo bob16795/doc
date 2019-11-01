@@ -108,3 +108,5 @@ redcoats were easy targets.
 the british want to divide the colonies in half.
 blockade the ports.
 divide an conquer.
+
+battle of saratoga.
