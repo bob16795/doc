@@ -2,7 +2,7 @@
 !slave | file_type: pdf_latex
 !slave | output: ../pdf/us_french_nd_indian_war.pdf
 !slave | title_head: -1
-!slave | paper_size: a4paper
+!slave | geometry: a4paper
 ---
 
 ## French and Indian war

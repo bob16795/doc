@@ -2,7 +2,7 @@
 !slave | file_type: pdf_latex
 !slave | output: ../pdf/ela_Journal.pdf
 !slave | title_head: -1
-!slave | paper_size: a4paper
+!slave | geometry: a4paper
 ---
 
 ## Journal
@@ -40,10 +40,10 @@ Social context whatever is considered normal.
 
 ### 01-15-19
 
-1. the party, person vs society.
-2. Melinda vs Rachel, person vs person.
-3. Melinda. should speak, person vs self.
-4. she is bullied by everyone, person vs society.
+1- the party, person vs society.
+2- Melinda vs Rachel, person vs person.
+3- Melinda. should speak, person vs self.
+4- she is bullied by everyone, person vs society.
 
 ### 01-28-19
 

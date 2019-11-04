@@ -3,7 +3,7 @@
 !slave | output: ../pdf/science_lab_report1.pdf
 !slave | title_head: -1
 !slave | title: determination of limiting reagent to calculate percent error
-!slave | paper_size: a4paper
+!slave | geometry: a4paper
 ---
 
 ## usage of limiting reagent to calculate percent error

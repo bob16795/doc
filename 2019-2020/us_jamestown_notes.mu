@@ -2,7 +2,7 @@
 !slave | file_type: pdf_latex
 !slave | output: ../pdf/us_jamestown_notes.pdf
 !slave | title_head: -1
-!slave | paper_size: a4paper
+!slave | geometry: a4paper
 ---
 
 ## jamestown notes

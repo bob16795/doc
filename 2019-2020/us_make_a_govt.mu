@@ -1,8 +1,8 @@
 ---
 !slave | file_type: pdf_latex
-!slave | output: ../pdf/us_make_a_govt.pdf
+!slave | output: ../pdf/us_Articles_of_Confederation.pdf
 !slave | title_head: -1
-!slave | paper_size: a4paper
+!slave | geometry: a4paper
 ---
 
 ## articles of confederation
@@ -41,3 +41,18 @@
   - own army.
 - they had the most power
   - to prevent one leader
+
+### treaty of parris
+
+- ended the revolutionary war
+- developed new border in the mississippi river
+- northwest ordinance of 1787
+  - new program to admit new states to the program
+  - prevented slavery in new territory
+
+### weakness
+
+- could not tax its citizens
+- no national currency
+- no central executive
+- no national court system

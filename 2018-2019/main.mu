@@ -5,7 +5,7 @@
 !slave | title_head: 0
 !slave | title: Master Notes 2018-2019
 !slave | title_page: True
-!slave | paper_size: a5paper
+!slave | geometry: a5paper
 !slave | index: True
 ---
 

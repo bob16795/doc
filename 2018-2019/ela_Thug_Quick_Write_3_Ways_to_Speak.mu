@@ -2,7 +2,7 @@
 !slave | file_type: pdf_latex
 !slave | output: ../pdf/ela_Thug_Quick_Write_3_Ways_to_Speak.pdf
 !slave | title_head: -1
-!slave | paper_size: a4paper
+!slave | geometry: a4paper
 ---
 
 <IDX: Thug; Case Switching>
