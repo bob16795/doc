@@ -7,14 +7,14 @@
 
 <IDX: Holocaust; Nuremberg; Punishment>
 
-## Nuremberg Trials
+# Nuremberg Trials
 
-### IMT
+## IMT
 
 - The Nazi party was tried during the Nuremberg Trials.
 - The Punishments for those found guilty in the Nuremberg Trials were Death, Incarceration.
 
-### IMTFE
+## IMTFE
 
 - Senior Japanese military leaders were tried during the Tokyo Trials.
 - he Punishments for those found guilty in the Tokyo Trials ranged from death to 7 Years in prison.

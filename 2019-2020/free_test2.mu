@@ -5,7 +5,7 @@
 !slave | geometry: a4paper
 ---
 
-## Test 2
+# Test 2
 
 - a
   - b

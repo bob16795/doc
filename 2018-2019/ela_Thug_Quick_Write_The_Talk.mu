@@ -7,7 +7,7 @@
 
 <IDX: Police>
 
-## Thug The Talk
+# Thug The Talk
 
 It would have been just as influential if it was a Younger person who has an incident with the cops.
 It showed how he learned he must change how he acts.

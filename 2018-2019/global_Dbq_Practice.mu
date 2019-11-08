@@ -7,7 +7,7 @@
 
 <IDX: Dbq; Dumb>
 
-## Dbq Practice
+# Dbq Practice
 
 - One territory annexed by Germany between 1938 and 1939 was Austria.
   - One result was Germany was split up into territories.

@@ -7,13 +7,13 @@
 
 <IDX: Notes; Sophomore paper>
 
-## Notes Paper
+# Notes Paper
 
 Research topic: PM affecting function in schools/work spaces
 
 Overarching research question: Does PM affect function in schools/work spaces negatively or not at all.
 
-### source 1
+## source 1
 
 keywords: school environment, indoor PM levels, PM exposure assessment, exposure mitigation.
 

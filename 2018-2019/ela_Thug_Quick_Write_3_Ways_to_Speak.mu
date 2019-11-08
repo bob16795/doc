@@ -7,7 +7,7 @@
 
 <IDX: Thug; Case Switching>
 
-## Thug 3 ways to Speak
+# Thug 3 ways to Speak
 
 schools should teach different ways people say the same word.
 this will help people understand not only different accents.

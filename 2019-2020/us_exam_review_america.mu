@@ -5,7 +5,7 @@
 !slave | geometry: a4paper
 ---
 
-## Exam Review America
+# Exam Review America
 
 - describe the climate of the three regions in the 13 colonies
   - the climate in the southern colonies provided long growing times

@@ -5,9 +5,9 @@
 !slave | geometry: a4paper
 ---
 
-## Healthy Journals
+# Healthy Journals
 
-### Heath Triangle
+## Heath Triangle
 
 The health triangle is three lines connected each representing Physical, Mental, and social.
 To achieve good health, you need a balanced triangle.
@@ -25,7 +25,7 @@ Eating nutritious meals, drinking 8 cups of water.
 Maintain healthy body weight.
 Regular doctor and dentist visits.
 
-### Health Factors
+## Health Factors
 
 The health factors are heredity, environment, attitude, behavior and, media and technology.
 Heredity controls diseases that you have increased risk for.
@@ -43,7 +43,7 @@ Environment is the buildings around you.
 Attitude can be positive or negative.
 Attitude can be optimistic or pessimistic.
 
-### Risk Behaver
+## Risk Behaver
 
 A risk behavior is a behavior that puts you or others in risk now or in the future.
 Some of the most prevalent risk behaviors in teens are tobacco, poor nutrition, poor exercise, alcohol, drugs, sexual behavior unintentional injuries / violence.
@@ -60,7 +60,7 @@ The number 2 death cause is homicide/suicide.
 Unintentional injuries are bad and can be caused by allot of thing like no seatbelt Avoid drugs.
 Drugs are bad.
 
-### DECIDE
+## DECIDE
 
 Your brain uses your neurons to make decisions.
 These neurons use chemical reactions and electronic pulses to communicate.
@@ -78,7 +78,7 @@ I stands for ideals.
 D stands for decide.
 E stands for evaluate.
 
-### Behavior change contract
+## Behavior change contract
 
 I have decided to drink more water.
 If I drink more water I can Reduce risk for many things.
@@ -96,7 +96,7 @@ Dehydration is when you don't drink enough water.
 When your dehydrated you might feel light headed.
 Or even pass out.
 
-### Stress
+## Stress
 
 There are two types of stress distress and stress.
 Distress is bad stress.
@@ -114,7 +114,7 @@ Distress is caused by things like procrastination.
 When you have eustress, you can get more motivated.
 When you have distress, you can get demotivated.
 
-### Mental illness
+## Mental illness
 
 2 in 100 teenage girls get an eating disorder.
 Dehydration can cause eating disorder.
@@ -132,7 +132,7 @@ Anti-depressants can help eating anxiety.
 Special programs can support those with anxiety.
 Avoid drugs.
 
-### Puberty
+## Puberty
 
 Puberty is the age at which a Prison is capable of reproduction.
 Puberty starts between ages 8-16.
@@ -150,7 +150,7 @@ there are many people better trained than me to talk about puberty.
 Girls at higher altitude experience puberty later.
 Exercise delays puberty.
 
-### Female Reproduction
+## Female Reproduction
 
 the mons pubis is the fatty tissue that covers and cushions the symphyses pubis.
 the labia majora is the folds of skin that protects the other external reproductive organs.
@@ -168,7 +168,7 @@ the clitoris is a piece of erectile tissue.
 the urinary orifice is connected to the urethra but isn't part of the Female reproductive system.
 the ovaries are located a few inches above the waist.
 
-### contraception
+## contraception
 
 Fertility awareness is when a couple avoids sex around when the female is ovulating.
 Fertility awareness is 80% effective.
@@ -186,7 +186,7 @@ a cervical cap is 85% effective.
 an IUD make a thick mucus, so the sperms can't get to the egg.
 an IUD is 99% effective.
 
-### contraception continued
+## contraception continued
 
 A Male condom is a latex sheath that covers the penis.
 A male condom is 85% effective.
@@ -204,7 +204,7 @@ A Depo-Provera shot is an injection.
 A Depo-Provera shot is 94% effective.
 A nuva ring is 91% effective.
 
-### STIs
+## STIs
 
 Chlamydia is a "silent infection" because it is asymptomatic.
 Chlamydia is bacteria spread.
@@ -224,7 +224,7 @@ Syphilis is bacteria spread.
 
 <IDX: Drugs>
 
-### Drug addiction
+## Drug addiction
 
 A drug is a substance that effects a person's life or experience.
 A Psychoactive drug is a substance that effects a person's brain function.
@@ -240,7 +240,7 @@ Marijuana can cause a hangover.
 
 <IDX: Alcohol>
 
-### Alcohol
+## Alcohol
 
 Alcohol is a psychoactive drug.
 Alcohol can cause slowed reactions and reflexes.
@@ -258,7 +258,7 @@ Hangovers can cause fatigue.
 Hangovers can cause sensitivity to light.
 Hangovers can cause irritability.
 
-### Tobacco
+## Tobacco
 
 There are many ways of using tobacco.
 These include Smoking, chewing, and Vaping.
@@ -275,7 +275,7 @@ Smoking is not good for you.
 
 <IDX: Drugs; Marijuana>
 
-### Marijuana
+## Marijuana
 
 Marijuana is a psychoactive drug.
 There are many ways of using marijuana.
@@ -293,7 +293,7 @@ On the long-term Marijuana can cause cancer.
 Marijuana can cause you to fail a field sobriety test.
 1% of the population that smokes overdoses.
 
-### Vaping
+## Vaping
 
 Vaping is the act of inhaling and exhaling a vapor.
 The vapor it often thought to be water vapor.
@@ -311,7 +311,7 @@ E-cigarettes could cause lung disease.
 Nicotine intake is not safe for pregnant women irrespective of the amount.
 Common side effects of vaping include Insomnia.
 
-### Health related Fitness
+## Health related Fitness
 
 your Health related fitness is important to Promote and Maintain.
 An aspects of Fitness is Flexibility.
@@ -325,7 +325,7 @@ This component is necessary for success in sports.
 Reaction time Is the amount of time it takes to start a movement once your senses signal the need to move.
 People with good reaction time can usually start quickly.
 
-### Body mass index
+## Body mass index
 
 There are two factors that are used to measure BMI.
 One of these is height The other is weight.
@@ -342,7 +342,7 @@ a decent WHR for a male is .9.
 a decent WHR for a male is .8.
 Research shows that people with pear shaped bodies are more at risk.
 
-### Heart rate
+## Heart rate
 
 Heart rate is the amount of beats your heart does in a minute.
 Maximum heart rate is different for everyone.

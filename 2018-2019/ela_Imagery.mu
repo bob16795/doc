@@ -7,7 +7,7 @@
 
 <IDX: Grammar; Journal>
 
-## Imagery
+# Imagery
 
 She's as quiet as the night.
 

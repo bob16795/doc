@@ -5,7 +5,7 @@
 !slave | geometry: a4paper
 ---
 
-## english colonization notes
+# english colonization notes
 
 - Henry VIII King of England broke out of the christian curch
 - separatists or pilgrims wanted to separate from church

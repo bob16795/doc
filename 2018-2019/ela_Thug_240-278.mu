@@ -7,7 +7,7 @@
 
 <IDX: Thug>
 
-## Thug 240-278
+# Thug 240-278
 
 - page (240) The kids were supposed to be in school but there skipping by protesting
 - page (270) Uncle Carlos got in to a fight with 115.

@@ -6,15 +6,15 @@
 !slave | geometry: a4paper
 ---
 
-## usage of limiting reagent to calculate percent error
+# usage of limiting reagent to calculate percent error
 
-### Purpose
+## Purpose
 
 the purpose of this lab will be to calculate limiting reagents and the results of combining calcium chloride and a solution.
 this will result in calcium carbonate and potassium chloride.
 the use of stoichiometry will aid me in the procedure.
 
-### pre-lab questions
+## pre-lab questions
 
 question 1:
 

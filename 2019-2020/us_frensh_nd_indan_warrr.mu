@@ -5,9 +5,9 @@
 !slave | geometry: a4paper
 ---
 
-## French and Indian war
+# French and Indian war
 
-### Causes
+## Causes
 
 - why was france in america
   - france was great britain's greatest rival in NA
@@ -18,7 +18,7 @@
   - they had been competing for a while in NA
   - the ohio river valley was the cause.
 
-### who
+## who
 
 - french and natives VS spanish and colonists.
   - french established a great relationship with natives
@@ -28,16 +28,16 @@
   - rejected for independence
 - gorge Washington
 
-### The end
+## The end
 
 - Paris treaty
   - natives rebel against colonists
 
-### results
+## results
 
 - end of solitary neglect
 
-### proclamation acts
+## proclamation acts
 
 - appliation mountains
   - colonies cant pass

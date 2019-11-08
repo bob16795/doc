@@ -5,9 +5,9 @@
 !slave | geometry: a4paper
 ---
 
-## The Crucible Questions
+# The Crucible Questions
 
-### The Puritans
+## The Puritans
 
 - workers rights were considered the most important aspect of life to the Puritans
 - 12 crimes, including blasphemy, counterfeiting and witchcraft resulted in death.

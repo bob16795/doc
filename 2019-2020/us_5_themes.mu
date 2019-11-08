@@ -5,7 +5,7 @@
 !slave | geometry: a4paper
 ---
 
-## 5 themes of geography
+# 5 themes of geography
 
 - Location
   - absolute

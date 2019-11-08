@@ -7,7 +7,7 @@
 
 <IDX: China; Culture; MAO>
 
-## Cultural revolution
+# Cultural revolution
 
 - Mao started the cultural revolution to help with the issues from the great leap forward.
 - Mao used foreign countries to change the Chinese income.

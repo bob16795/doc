@@ -5,9 +5,9 @@
 !slave | geometry: a4paper
 ---
 
-## Native Americans
+# Native Americans
 
-### Way of life for native americans
+## Way of life for native americans
 
 - environment plays the biggest factor
 - south western native americans
@@ -35,7 +35,7 @@
   - gathered
   - had a govt. called the iroquois confederacy
 
-### Native Americans Share Cultural Patterns
+## Native Americans Share Cultural Patterns
 
 - trading networks
   - united tribes
@@ -56,7 +56,7 @@
   - groups organized by family
 - Why did people come to the new world
 
-### primary source vs secondary
+## primary source vs secondary
 
 - primary
   - a document from someone who lived through something.
@@ -65,7 +65,7 @@
 - secondary
   - a document from a person who didn't live through something
 
-### European Colonization in North America
+## European Colonization in North America
 
 - when:
   - age of exploration
@@ -75,7 +75,7 @@
   - spain
   - portugal
 
-### spanish settlement
+## spanish settlement
 
 - who: spanish conquistadors
 - when: 1500s

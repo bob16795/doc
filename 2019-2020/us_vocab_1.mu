@@ -5,7 +5,7 @@
 !slave | geometry: a4paper
 ---
 
-## Vocab
+# Vocab
 
 In the column on the left hand side are 10 of the most essential terms for this unit’s content.  In the second column, write the definition on your own words. 
 

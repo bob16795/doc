@@ -5,7 +5,7 @@
 !slave | geometry: a4paper
 ---
 
-## close read act 2
+# close read act 2
 
 1- I would characterize Elizabeth as a little bland and in the need to be spiced up
 2- When Procter passed Elizabeth he paused, because he feels guilty.

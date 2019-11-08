@@ -3,6 +3,6 @@
 !slave | use: 2019-2020/^science_(?!master).*mu$
 ---
 
-# science
+<CPT: Science>
 
 Inc: ^science\_(?!master).*\.mu$

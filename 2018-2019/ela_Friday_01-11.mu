@@ -7,7 +7,7 @@
 
 <IDX: Friday; Dumb>
 
-## Essay Friday 1-11
+# Essay Friday 1-11
 
 If cellphones were in speak life for Melinda would be worse off.
 They would post rude things like "no one should be friends with Melinda".

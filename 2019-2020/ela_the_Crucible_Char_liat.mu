@@ -5,7 +5,7 @@
 !slave | geometry: a4paper
 ---
 
-## The Crucible Char List
+# The Crucible Char List
 
 john proctor - Jensyn
 

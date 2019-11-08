@@ -5,7 +5,7 @@
 !slave | geometry: a4paper
 ---
 
-## Act II Reading Check
+# Act II Reading Check
 
 Elizabeth is speaking to Proctor.
 She is offended because he is saying she doesn't forgive people.

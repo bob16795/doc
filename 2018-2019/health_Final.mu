@@ -5,9 +5,9 @@
 !slave | geometry: a4paper
 ---
 
-## Final
+# Final
 
-### Unhealthy behaviors
+## Unhealthy behaviors
 
 - She didn't mute her phone when she was being texted.
 - She procrastinated going to school.
@@ -15,7 +15,7 @@
 - She didn't tell tommy to stop texting while driving.
 - She copied Tommy's test homework
 
-### Healthy behaviors
+## Healthy behaviors
 
 - She could do the homework without copying.
 - She could try to sleep for eight hours from now on.

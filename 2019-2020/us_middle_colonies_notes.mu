@@ -5,9 +5,9 @@
 !slave | geometry: a4paper
 ---
 
-## Middle Colonies Notes
+# Middle Colonies Notes
 
-### new netherlands
+## new netherlands
 
 - henry hudson
   - hired by the dutch

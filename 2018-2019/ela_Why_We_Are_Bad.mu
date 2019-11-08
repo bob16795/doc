@@ -7,7 +7,7 @@
 
 <IDX: World Without People>
 
-## Why We Are Bad
+# Why We Are Bad
 
 Humans are detrimental to the planet. This is because we are eating too much meat and
 creating too much greenhouse gasses and changing global climate.

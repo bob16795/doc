@@ -7,9 +7,9 @@
 
 <IDX: Arab; Israel>
 
-## Arab Israel conflict
+# Arab Israel conflict
 
-### Article information
+## Article information
 
 Title: Netanyahu And Hamas Lock into a cycle of violence.
 
@@ -22,7 +22,7 @@ Summary:
 After 3 days of heavy missile usage people aren't shooting missiles.
 But there is still argument and the war hasn't stopped.
 
-### Information
+## Information
 
 Enduring issue: Conflict
 

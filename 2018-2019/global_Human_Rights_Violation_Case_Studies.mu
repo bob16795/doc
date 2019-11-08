@@ -7,7 +7,7 @@
 
 <IDX: Genocide; Human Rights>
 
-## Bosnian Genocide
+# Bosnian Genocide
 
 - Bosnia (Bosnian Muslim, 44\%), Serb (31\%), and Croat (17\%), as well as Yugoslav (8\%).
 - They "Cleansed" it.
@@ -32,9 +32,9 @@
 
 <IDX: Genocide>
 
-## Cambodian Genocide
+# Cambodian Genocide
 
-### questions
+## questions
 
 - He Knew it would be difficult to ship weapons
 - To stop weapon shipments.
@@ -49,14 +49,14 @@
 - Vietnam Invaded him.
 - It was damaged severely.
 
-### SQ 3
+## SQ 3
 
 Anti-American sentiment was raising in Cambodia.
 So, America bombed them.
 
-## Rwanda Genocide
+# Rwanda Genocide
 
-### Background
+## Background
 
 - Hutu extremist led government launched a plan to murder the country's entire Tutsi minority.
 - There is a longstanding history of tension between the Tutsi and Hutu.
@@ -64,7 +64,7 @@ So, America bombed them.
 - Belgians liked Tutsis more.
 - Hutu political leaders began to import large numbers of machetes and distributed the weapons to the militias.
 
-### Response
+## Response
 
 - the international community in Rwanda
 - They withdrew.

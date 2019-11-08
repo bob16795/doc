@@ -5,7 +5,7 @@
 !slave | geometry: a4paper
 ---
 
-## jamestown notes
+# jamestown notes
 
 - Reason for english colonization in America.
   - silver

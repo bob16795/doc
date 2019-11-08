@@ -7,16 +7,16 @@
 
 <IDX: America; Revolution; Boston; Excise Taxes; Massacre>
 
-## road to revolution
+# road to revolution
 
-### bell ringer french and indian war
+## bell ringer french and indian war
 
 the result of the french and indian war was the end of solitary neglect.
 the british and colonies won the war.
 the ohio river valley.
 the treaty of parris ended the war.
 
-### Excise taxes
+## Excise taxes
 
 - 1764
   - sugar act
@@ -28,7 +28,7 @@ the treaty of parris ended the war.
   - townshend acts
     - **tea, lead, glass, paint**
 
-### boston massacre
+## boston massacre
 
 - the british were raising taxes to help pay war debt
   - they felt it was wrong
@@ -45,7 +45,7 @@ the treaty of parris ended the war.
   - colonies are mad at british
   - britain steps back except for tea
 
-### Timeline
+## Timeline
 
 - F&i war
 - proclamation acts
@@ -59,7 +59,7 @@ the treaty of parris ended the war.
 
 <IDX: Boston Tea Party>
 
-### The tea act
+## The tea act
 
 - the british repealed all taxes except for tea
 - british  places a monopoly on tea

@@ -5,7 +5,7 @@
 !slave | geometry: a4paper
 ---
 
-## english colony treatment
+# english colony treatment
 
 - Wealth Pie
 - **mercantilism**

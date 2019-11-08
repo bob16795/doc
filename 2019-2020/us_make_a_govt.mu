@@ -5,9 +5,9 @@
 !slave | geometry: a4paper
 ---
 
-## articles of confederation
+# articles of confederation
 
-### definition
+## definition
 
 - preamble and 13 articles
 - ruling document in the new nation
@@ -33,7 +33,7 @@
   - postal system
   - weights and measures
 
-### power
+## power
 
 - states hold the most power
   - they could tax, 
@@ -42,7 +42,7 @@
 - they had the most power
   - to prevent one leader
 
-### treaty of parris
+## treaty of parris
 
 - ended the revolutionary war
 - developed new border in the mississippi river
@@ -50,7 +50,7 @@
   - new program to admit new states to the program
   - prevented slavery in new territory
 
-### weakness
+## weakness
 
 - could not tax its citizens
 - no national currency

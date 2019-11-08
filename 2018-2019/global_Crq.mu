@@ -7,7 +7,7 @@
 
 <IDX: Change; Conflict; Crq>
 
-## Crq
+# Crq
 
 - Britain was an island, so they could impersonalized fastest
 - he thought British imperialism in India was good

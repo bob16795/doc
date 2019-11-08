@@ -8,13 +8,13 @@ title_page: True
 toc: True
 chapter_toc: True
 index: True
-geometry: a5paper
+geometry: a5paper, inner =.5in, outer=.75in, top=.75in, bottom=.75in
 ---
 
-<CPT: 2018-2019>
+<PRT: 2018-2019>
 
 Inc: 2018-2019/main.mu
 
-<CPT: 2019-2020>
+<PRT: 2019-2020>
 
 Inc: 2019-2020/main.mu

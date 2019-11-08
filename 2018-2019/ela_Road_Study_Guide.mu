@@ -7,9 +7,9 @@
 
 <IDX: Road, The>
 
-## Road Study Guide
+# Road Study Guide
 
-### (1-7)
+## (1-7)
 
 - Where is the man and the boy going? Why?
   - They’re going to the ocean for water.
@@ -18,7 +18,7 @@
 - Explain the quote “I suppose this book is a love story to my son”:
   - He cares about his son.
 
-### (8-17)
+## (8-17)
 
 - what does the father mean when he says, “you forget what you want to remember and remember what you want to forget?”
   - 1He means what he said.
@@ -27,7 +27,7 @@
 - Concerns?
   - Food and shoes.
 
-### (18-33)
+## (18-33)
 
 - Good dreams?
   - Because they help you sleep
@@ -40,7 +40,7 @@
 - That boy?
   - He will probably kill himself if the boy dies
 
-### (34-48)
+## (34-48)
 
 - promised?
   - Think about the boy all the time.
@@ -53,7 +53,7 @@
 - Truck?
   - There were dead bodies, human trafficking.
 
-### (49-60)
+## (49-60)
 
 - What do they do?
   - They follow him.
@@ -70,7 +70,7 @@
 - goodbye?
   - Not change her mind.
 
-### (60-79)
+## (60-79)
 
 - Realistic?
   - No how would the fuel work
@@ -83,7 +83,7 @@
 - Fathers job?
   - Keeping his son safe.
 
-### (78-89)
+## (78-89)
 
 - Kill the dog?
   - Its un necessary
@@ -92,7 +92,7 @@
 - Real?
   - No, it’s not real.
 
-### (90-105)
+## (90-105)
 
 - Orchard?
   - Footprints. It just snowed.
@@ -103,7 +103,7 @@
 - Strat?
   - Hide and watch.
 
-### (105-113)
+## (105-113)
 
 - Suspense use?
   - He uses suspense to confuse the reader.
@@ -112,7 +112,7 @@
 - Saw but not?
   - He felt stupid because he didn’t realize that he was in a bad place.
 
-### (114-130)
+## (114-130)
 
 - Escape?
   - The run.
@@ -123,7 +123,7 @@
 - Reaction?
   - He wants to help them.
 
-### (131-144)
+## (131-144)
 
 - wish
   - he is lonely.
@@ -136,7 +136,7 @@
 - Real?
   - Not very likely
 
-### (145-156)
+## (145-156)
 
 - Before eating?
   - He thanks the people who died.
@@ -147,7 +147,7 @@
 - Why don’t they stay?
   - They hear a dog.
 
-### (157-167)
+## (157-167)
 
 - Sun?
   - ash clouds.
@@ -156,14 +156,14 @@
 - Old?
   - No, he is lying a lot.
 
-### (168-180)
+## (168-180)
 
 - Explain “beggars”?
   - Need is different from want.
 - Why Food?
   - The boy is kind.
 
-### (180-195)
+## (180-195)
 
 - Foreshadowing?
   - The dad might die.
@@ -176,7 +176,7 @@
 - Followed?
   - There always being followed.
 
-### (196-204)
+## (196-204)
 
 - Trees?
   - The end of the world
@@ -191,14 +191,14 @@
 - Father feels?
   - Bad.
 
-### (205-213)
+## (205-213)
 
 - Decision?
   - He is dying.
 - Find?
   - Nothing, this is a bad book
 
-### (213-223)
+## (213-223)
 
 - Look?
   - He’s never seen a deer.
@@ -209,7 +209,7 @@
 - check the boat
   - check for food
 
-### (223-240)
+## (223-240)
 
 - what does he find on the boat
   - nothing
@@ -224,7 +224,7 @@
 - Flare uses?
   - To catch someone on fire.
 
-### (240-253)
+## (240-253)
 
 - Good idea?
   - No, they could be caught
@@ -233,7 +233,7 @@
 - When they find him?
   - They will steal his clothes.
 
-### (253-270)
+## (253-270)
 
 - Find him?
   - They look for snow.

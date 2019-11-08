@@ -5,9 +5,9 @@
 !slave | geometry: a4paper
 ---
 
-## northern vs. southern colonies
+# northern vs. southern colonies
 
-### southern
+## southern
 
 - plantations
   - large labor force
@@ -19,21 +19,21 @@
   - land
     - most power full people had plantations
 
-### northern
+## northern
 
 - small Farms
 - trade
 - diverse colonies
 - merchants are power full
 
-### both
+## both
 
 - many immigrants
 - women considered second class
 - less indentured servants
 - slaves
 
-### triangle trade
+## triangle trade
 
 - England makes rum for Africa
 - slaves sold to west indies
@@ -49,7 +49,7 @@
   - punishment
   - legal rights in the north
 
-### enlightenment
+## enlightenment
 
 - Ben Franklin
 - religeon

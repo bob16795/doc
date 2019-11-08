@@ -5,9 +5,9 @@
 !slave | geometry: a4paper
 ---
 
-## British split
+# British split
 
-### Enlightenment Influences
+## Enlightenment Influences
 
 - characteristics of absolute monarchy?
   - there is a king or queen
@@ -26,7 +26,7 @@
   - baron de montesquieu
   - jean jacques rousseau
 
-### natural rights
+## natural rights
 
 - L: life
   - L: liberty
@@ -35,7 +35,7 @@
 - consent of govt
   - governed need permission of the people
 
-### branches
+## branches
 
 - baron de montesquieu believes power should be separated
   - prevents a corrupt govt
@@ -46,12 +46,12 @@
 - judicial
   - court
 
-### Contracts
+## Contracts
 
 - jean jacques rousseau
 - social compact is a agreement between govt and people
 
-### dec. of ind.
+## dec. of ind.
 
 - wrote on the 4th of july
 - john hancock
@@ -63,7 +63,7 @@
 - Grievances
   - everything
 
-### soldiers life during war
+## soldiers life during war
 
 - food rations
   - promised
@@ -88,7 +88,7 @@
   - received
     - none
 
-### warfare
+## warfare
 
 the colonists have a **geographical advantage.**
 the colonists are fighting for independence.

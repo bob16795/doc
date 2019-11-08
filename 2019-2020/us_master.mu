@@ -3,6 +3,6 @@
 !slave | use: 2019-2020/^us_(?!master).*mu$
 ---
 
-# us
+<CPT: Us History>
 
 Inc: ^us\_(?!master).*mu$

@@ -7,7 +7,7 @@
 
 <IDX: Italy; Mazzini>
 
-## Italian Unification
+# Italian Unification
 
 1- The Austrian and French forces worked together to crush the romantic Italian nationalists.
 2- Mazzini formed Risorgimento and Young Italy.

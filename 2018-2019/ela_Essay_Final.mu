@@ -7,7 +7,7 @@
 
 <IDX: Final; Boring; Education>
 
-## Essay Final
+# Essay Final
 
 Education is important but not attainable for impoverished youth.
 There are many reasons for this.

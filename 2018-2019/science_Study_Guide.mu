@@ -4,9 +4,9 @@
 !slave | title_head: -1
 !slave | geometry: a4paper
 ---
-## Study Guide
+# Study Guide
 
-### Matter and energy
+## Matter and energy
 
 Matter is anything that has mass and volume.
 A substance is a pure sample composed of one thing.
@@ -30,7 +30,7 @@ Varying proportions means there are different amounts of the substances.
 Chromatography is when you separate two substances by attraction forces.
 Filtration is when you split substances based off size.
 
-### Math and Moles
+## Math and Moles
 
 Atomic mass is the mass of an element.
 GFM is the amount of moles in a gram of an element.
@@ -39,7 +39,7 @@ The Number of moles is equal to the mass divided by the GFM.
 Mole Ratios are found by dividing.
 Percent composition by mass is just division and addition.
 
-### TKE
+## TKE
 
 Stoichiometry is balancing equations.
 Exothermic reactions get warmer.
@@ -52,7 +52,7 @@ A catalyst lowers activation energy.
 Collision theory states that for a reaction to occur particles must collide with energy and proper orientation.
 Increasing the temperature of a reaction speeds it up because there are more collisions.
 
-### Solutions
+## Solutions
 
 Solution is something dissolved in something.
 Solvent is the dissolver.

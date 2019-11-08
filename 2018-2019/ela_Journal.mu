@@ -5,13 +5,13 @@
 !slave | geometry: a4paper
 ---
 
-## Journal
+# Journal
 
-### 10-02-18
+## 10-02-18
 
 A hero is someone who goes above and beyond. They are willing to risk their life.
 
-### 11-02-18
+## 11-02-18
 
 five their sentences.
 
@@ -32,26 +32,26 @@ a hint for what is to come
 examples:
 dialogue, weather, dreams.
 
-### 01-09-19
+## 01-09-19
 
 Settings is Where or when a story takes place as well as social context.
 
 Social context whatever is considered normal.
 
-### 01-15-19
+## 01-15-19
 
 1- the party, person vs society.
 2- Melinda vs Rachel, person vs person.
 3- Melinda. should speak, person vs self.
 4- she is bullied by everyone, person vs society.
 
-### 01-28-19
+## 01-28-19
 
 Symbolism:
 
 a literary device used for relating things.
 
-### 4-29-19
+## 4-29-19
 
 what happened:
 
@@ -77,7 +77,7 @@ how:
 
 gun.
 
-### 5-13-19
+## 5-13-19
 
 they don't know what they're talking about.
 

@@ -7,9 +7,9 @@
 
 <IDX: Grades>
 
-## Speak Grades
+# Speak Grades
 
-### Social Studies
+## Social Studies
 
 text evidence:
 
@@ -19,7 +19,7 @@ explanation:
 
 Mr. neck doesn't like her.
 
-### Lunch
+## Lunch
 
 text evidence:
 

@@ -7,7 +7,7 @@
 
 <IDX: Thug; Tattoo>
 
-## Tattoo
+# Tattoo
 
 The first one is representative of how I feel about IDEs.
 In vim replacing text requires pressing :\%s which stands for search.

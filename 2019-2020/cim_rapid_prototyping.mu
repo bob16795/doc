@@ -5,7 +5,7 @@
 !slave | geometry: a4paper
 ---
 
-## rapid prototyping
+# rapid prototyping
 
 - directly, electronic data, build fabrications layer by layer.
 - prototype.

@@ -4,7 +4,7 @@
 !slave | title_head: -1
 !slave | geometry: a4paper
 ---
-## Why We Are Bad
+# Why We Are Bad
 
 change has been an enduring issue throughout time. there are many examples of this one is the UN declaration another is the treaty of versatile.
 

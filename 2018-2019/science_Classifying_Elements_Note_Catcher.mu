@@ -7,7 +7,7 @@
 
 <IDX: Classifying; Elements>
 
-## Classifying Elements Notes
+# Classifying Elements Notes
 
 What determines the properties of metals?
 

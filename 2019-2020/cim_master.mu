@@ -3,6 +3,6 @@
 !slave | use: 2019-2020/^cim_(?!master).*mu$
 ---
 
-# cim
+<CPT: CIM>
 
 Inc: ^cim\_(?!master).*\.mu$

@@ -7,7 +7,7 @@
 
 <IDX: China>
 
-## Tiananmen Square
+# Tiananmen Square
 
 - The people were protesting to get more political freedom.
 - The government used force to respond.

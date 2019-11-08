@@ -2,6 +2,7 @@
 !slave | ignore: True
 !slave | use: ^<+chapter+>_(?!master).*mu$
 ---
-# <+chapter+>
+
+<CPT: <+Chapter+>>
 
 Inc: ^<+chapter+>_(?!master).*mu$

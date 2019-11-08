@@ -7,7 +7,7 @@
 
 <IDX: Open Source; Freedom; Computer>
 
-## Do You Want A Free Computer
+# Do You Want A Free Computer
 
 What is a computer; a computer is just memory attached to some simple arithmetic units.
 Programming a computer was originally started as just ones and zeros. This is because
