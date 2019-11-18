@@ -8,11 +8,7 @@ title_page: True
 toc: True
 chapter_toc: True
 index: True
-<<<<<<< HEAD
-geometry: a5paper, inner=.5in, outer=.75in, top=.75in, bottom=.75in
-=======
 geometry: a5paper, inner =.5in, outer=.75in, top=.75in, bottom=.75in
->>>>>>> 6f0e5548f486f786c3be5d5f38d7808c8c930343
 ---
 
 <PRT: 2018-2019>

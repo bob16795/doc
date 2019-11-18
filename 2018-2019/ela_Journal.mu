@@ -40,17 +40,10 @@ Social context whatever is considered normal.
 
 ## 01-15-19
 
-<<<<<<< HEAD
-1. the party, person vs society.
-2. Melinda vs Rachel, person vs person.
-3. Melinda. should speak, person vs self.
-4. she is bullied by everyone, person vs society.
-=======
 1- the party, person vs society.
 2- Melinda vs Rachel, person vs person.
 3- Melinda. should speak, person vs self.
 4- she is bullied by everyone, person vs society.
->>>>>>> 6f0e5548f486f786c3be5d5f38d7808c8c930343
 
 ## 01-28-19
 
