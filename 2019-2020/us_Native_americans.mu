@@ -44,7 +44,7 @@
   - considered land source of life
   - no one owned land
   - disturb it only for urgency
-- religous beliefs
+- religious beliefs
   - nature is filled with spirits
   - one supreme being sometimes
 - social organization

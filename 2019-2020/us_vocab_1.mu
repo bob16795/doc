@@ -27,4 +27,4 @@ In the column on the left hand side are 10 of the most essential terms for this 
   - Supreme power or authority
 - Liberty 
   - To be free in society
-- Compromise 
+- Compromise

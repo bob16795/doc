@@ -51,7 +51,7 @@
 - jean jacques rousseau
 - social compact is a agreement between govt and people
 
-## dec. of ind.
+## dec. of independence
 
 - wrote on the 4th of july
 - john hancock
