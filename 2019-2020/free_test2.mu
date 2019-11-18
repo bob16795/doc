@@ -15,8 +15,3 @@
 <+ this is a comment +>
 < this is a bad comment +>
 <+ this is a bad comment >
-
-```python
-from markup import cli
-cli.start("lol.mu")
-```
