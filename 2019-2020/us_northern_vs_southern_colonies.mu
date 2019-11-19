@@ -44,7 +44,7 @@
   - terrible terrible journey.
   - they branded the slaves.
 - slaves
-  - dark skin as sign of inferio rity.
+  - dark skin as sign of inferiority.
   - plantations
   - punishment
   - legal rights in the north
@@ -52,9 +52,9 @@
 ## enlightenment
 
 - Ben Franklin
-- religeon
+- religion
   - emotion
 - more people in church
-- religous tolerance
+- religious tolerance
 - questions authority
-  - sss
+  - enlightened people

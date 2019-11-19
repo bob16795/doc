@@ -32,7 +32,7 @@
 
 important: __life, liberty, and pursuit of happiness__
 
-# class preamble
+## class preamble
 
 We the people of newark highschool in order to form a more perfect community establish respect for one another, 
 ensure each other safety,

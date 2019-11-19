@@ -1,6 +1,6 @@
 ---
 !slave | file_type: pdf_latex
-!slave | output: ../pdf/us_Constitutonial_convention.pdf
+!slave | output: ../pdf/us_Constitutional_convention.pdf
 !slave | title_head: -1
 !slave | geometry: a4paper
 ---
@@ -38,4 +38,3 @@
   - after 20 years no more slaves imported
 - fear of monarchy
   - electorial college
-    - 

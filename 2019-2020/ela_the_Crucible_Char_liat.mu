@@ -70,7 +70,7 @@ ruth putnam - Arianna
 
 tituba - Kalyna
 
-- parris's slave
+- parr\is's slave
 - easy to blame
 
 Mary warren - Haley

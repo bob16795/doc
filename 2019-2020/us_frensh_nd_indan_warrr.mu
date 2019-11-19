@@ -39,6 +39,6 @@
 
 ## proclamation acts
 
-- appliation mountains
+- application mountains
   - colonies cant pass
 - want land

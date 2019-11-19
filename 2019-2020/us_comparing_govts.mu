@@ -1,6 +1,6 @@
 ---
 !slave | file_type: pdf_latex
-!slave | output: ../pdf/us_comparing_govts.pdf
+!slave | output: ../pdf/us_comparing_governments.pdf
 !slave | title_head: -1
 !slave | geometry: a4paper
 ---

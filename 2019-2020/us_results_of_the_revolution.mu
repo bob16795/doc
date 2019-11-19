@@ -31,7 +31,6 @@ the British were going to blockade the ports.
   - they need to negotiate a treaty to end the war
   - _treaty of parris of 1783_
     - america is free
-    - america is sovern
     - america is independent
     - boundary for us is the mississippi
     - captured slaves must be returned to their owners
