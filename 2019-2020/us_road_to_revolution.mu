@@ -22,11 +22,11 @@ the treaty of parris ended the war.
   - sugar act
 - 1765
   - quartering act
-    - **EXTRA PEOPLE IN HOUSE**
+    - EXTRA PEOPLE IN HOUSE
   - stamp act
 - 1767
   - townshend acts
-    - **tea, lead, glass, paint**
+    - tea, lead, glass, paint
 
 ## boston massacre
 
@@ -35,7 +35,7 @@ the treaty of parris ended the war.
 - the british were moving troops to boston
   - the people of boston felt threatened
   - paul ravere
-    - _the bloody massacre as depicted on king street_
+    - the bloody massacre as depicted on king street
 - the sons of liberty
   - tar and feathers
 - what really happened
@@ -69,12 +69,12 @@ the treaty of parris ended the war.
     - it was out in the open
     - 1500 pounds of tea in harbor
   - the king punished the colonists
-    - _another tax_
+    - another tax
   - intolerable acts
     - boston harbor closed
     - no town meetings
   - the colonists form meeting
-    - **first continental congress**
+    - first continental congress
     - discuss rights they should have
     - natural rights
     - they will fight back

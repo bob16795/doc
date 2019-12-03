@@ -8,6 +8,7 @@
 !slave | geometry: a5paper
 !slave | index: True
 !slave | toc: True
+!slave | multicols: True
 ---
 
 Inc: ^.*_master\.mu$

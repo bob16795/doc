@@ -18,11 +18,11 @@ the use of stoichiometry will aid me in the procedure.
 
 question 1:
 
-1.25M/50ml*1000 = 25Mol
+$$1.25M/50ml*1000 = 25Mol$$
 
 question 2:
 
-25Mol*100.9g/1Mol=2522.5g
+$$25Mol*100.9g/1Mol=2522.5g$$
 
 question 3:
 
@@ -30,14 +30,14 @@ procedure:
 
 part 1:
 
-- put 20.0 mL of .5M CaCl2 in a 25 mL grad. cylinder record amount on trial 1.
-- put 10 mL of 1.5M Na2CO3 in a 10 mL grad. cylinder record amount on trial 1.
-- swirl flask.
-- weigh filter paper and make funnel.
-- filter the white solid.
-- wash flash with a small amount of distilled water.
-- weigh watch glass record on trial 1.
-- remove filter paper with teasers record weight.
+1- put 20.0 mL of .5M CaCl2 in a 25 mL grad. cylinder record amount on trial 1.
+2- put 10 mL of 1.5M Na2CO3 in a 10 mL grad. cylinder record amount on trial 1.
+3- swirl flask.
+4- weigh filter paper and make funnel.
+5- filter the white solid.
+6- wash flash with a small amount of distilled water.
+7- weigh watch glass record on trial 1.
+8- remove filter paper with teasers record weight.
 
 part 2:
 
