@@ -43,21 +43,21 @@ H: 0.0
 
 ### Question 3
 
-A: 7.0x1x130,000 = 9.10x10^5
+A: 7.0x1x130,000 = .91
 
-B: 5.6x1x130,000 = 7.28x10^5
+B: 5.6x1x130,000 = .728
 
-C: 4.2x1x130,000 = 5.46x10^5
+C: 4.2x1x130,000 = .546
 
-D: 2.8x1x130,000 = 2.64x10^5
+D: 2.8x1x130,000 = .264
 
-E: 2.1x1x130,000 = 2.73x10^5
+E: 2.1x1x130,000 = .273
 
-F: 1.4x1x130,000 = 1.82x10^5
+F: 1.4x1x130,000 = .182
 
-G: 0.7x1x130,000 = 9.10x10^4
+G: 0.7x1x130,000 = .910
 
-H: 0.0x1x130,000 = 0
+H: 0.0x1x130,000 = .0
 
 <NEWPAGE>
 
@@ -67,49 +67,49 @@ H: 0.0x1x130,000 = 0
 
 2. calibrate the spectrophotometer with the correct wave length
 
-3. get 50mL of stock solution containing blue dye 
+3. get 50mL of stock solution containing blue dye
+
+4. 
 
 ## Data Table
 
-Initial Volume: 18mL
+solution: absorbtion.
 
-Final Volume: 41mL
+A: 0.92
 
-Volume of $O_2$: 23mL
+B: 0.77
 
-Time reaction started: 0 sec
+C: 0.57
 
-Time reaction ended: 4 min 31 sec
+D: 0.38
 
-Reaction time: 4 min 31 sec
+E: 0.32
+
+F: 0.19
+
+G: 0.10
+
+H: 0.00
 
 <NEWPAGE>
 
 ## Calculations
 
-### Actual number of moles
+A: c = 0.92 / 130,000 = 7.08x10^-6M
 
-$$T = 22^{\\circ}C+273 = 295^{\\circ}K$$
+B: c = 0.77 / 130,000 = 5.92x10^-6M
 
-$$P = 1.01 atm$$
+C: c = 0.57 / 130,000 = 4.38x10^-6M
 
-$$V = 23mLx\\frac{1L}{1000mL} = .023L$$
+D: c = 0.38 / 130,000 = 2.92x10^-6M
 
-$$R = 0.0821\\frac{L*atm}{mol*K}$$
+E: c = 0.32 / 130,000 = 2.46x10^-6M
 
-$$n = \\frac{PV}{RT}= \\frac{1.01 atmx.023 L}{0.0821\\frac{L*atm}{mol*K}x295^{\\circ}K} = 9.595 Mol$$
+F: c = 0.19 / 130,000 = 1.46x10^-6M
 
-### Theoretical number of moles
+G: c = 0.10 / 130,000 = 7.69x10^-6M
 
-$$O_2 = V_{H_2O_2}xD_{H_2O_2}x\\frac{1 mol H_2O_2}{34g H_2O_2}x\\frac{1molO_2}{2molH_2O_2}$$
-
-$$O_2 = 5.00mL H_2O_2x1.02 \\frac{g H_2O_2}{mL H_2O_2}x\\frac{1 mol H_2O_2}{34g H_2O_2}x\\frac{1molO_2}{2molH_2O_2} = 6.81*10^{-3} mol$$
-
-### Percent Hydrogen Peroxide and reaction rate
-
-$$%H_2O_2 = \\frac{9.959*10^{-4} mol}{6.81*10^{-3} mol}x100 = 1.279%$$
-
-$$R = \\frac{23mL O_2}{4x60 + 31 sec} = .085\\frac{mL}{sec}$$
+H: c = 0.00 / 130,000 = 0.00M
 
 ## Post-lab questions
 
