@@ -1,5 +1,5 @@
 ---
-!slave | file_type: pdf_latex
+!slave | file_type: straight_pdf
 !slave | output: ../pdf/ela_Road_Study_Guide.pdf
 !slave | title_head: -1
 !slave | geometry: a4paper
@@ -12,9 +12,9 @@
 ## (1-7)
 
 - Where is the man and the boy going? Why?
-  - They’re going to the ocean for water.
+  - They're going to the ocean for water.
 - Think about the literary style of the book why is this different than normal books
-  - Because it’s not as good as normal books.
+  - Because it's not as good as normal books.
 - Explain the quote “I suppose this book is a love story to my son”:
   - He cares about his son.
 
@@ -64,9 +64,9 @@
 - Hope?
   - To keep him from being like his mother.
 - Names?
-  - They aren’t important to the story.
+  - They aren't important to the story.
 - Argument?
-  - The wife wants to die but he doesn’t.
+  - The wife wants to die but he doesn't.
 - goodbye?
   - Not change her mind.
 
@@ -90,7 +90,7 @@
 - Meaning “fire”?
   - Were safe because we have fire.
 - Real?
-  - No, it’s not real.
+  - No, it's not real.
 
 ## (90-105)
 
@@ -110,7 +110,7 @@
 - Help?
   - He could get caught.
 - Saw but not?
-  - He felt stupid because he didn’t realize that he was in a bad place.
+  - He felt stupid because he didn't realize that he was in a bad place.
 
 ## (114-130)
 
@@ -130,7 +130,7 @@
 - How does he know?
   - The buildings are empty of goods.
 - God guys?
-  - They don’t kill people. To teach the kid to be a good guy too.
+  - They don't kill people. To teach the kid to be a good guy too.
 - find?
   - A vault, they are dead.
 - Real?
@@ -143,8 +143,8 @@
 - Disaster.
   - A bomb.
 - One?
-  - The kid can’t carry one
-- Why don’t they stay?
+  - The kid can't carry one
+- Why don't they stay?
   - They hear a dog.
 
 ## (157-167)
@@ -152,7 +152,7 @@
 - Sun?
   - ash clouds.
 - Reason
-  - It’s raining.
+  - It's raining.
 - Old?
   - No, he is lying a lot.
 
@@ -172,7 +172,7 @@
 - Distance?
   - The bad dream
 - Watching eat?
-  - He’s hungry
+  - He's hungry
 - Followed?
   - There always being followed.
 
@@ -185,7 +185,7 @@
 - cooking?
   - They were in a rush.
 - Emotional
-  - He isn’t as disturbed.
+  - He isn't as disturbed.
 - Baby … from where?
   - The pregnant lady with them
 - Father feels?
@@ -201,11 +201,11 @@
 ## (213-223)
 
 - Look?
-  - He’s never seen a deer.
+  - He's never seen a deer.
 - Find?
   - Nothing
 - Play?
-  - He’s dumb
+  - He's dumb
 - check the boat
   - check for food
 
@@ -218,7 +218,7 @@
 - mad?
   - the father is nice.
 - Problem?
-  - It wasn’t
+  - It wasn't
 - Camp?
   - He walks.
 - Flare uses?

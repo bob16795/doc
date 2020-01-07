@@ -1,6 +1,6 @@
 ---
-!slave | file_type: pdf_latex
-!slave | output: ../pdf/us_results_of_the_revolution.mu
+!slave | file_type: straight_pdf
+!slave | output: ../pdf/us_results_of_the_revolution.pdf
 !slave | title_head: -1
 !slave | geometry: a4paper
 ---

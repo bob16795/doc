@@ -1,5 +1,5 @@
 ---
-!slave | file_type: pdf_latex
+!slave | file_type: straight_pdf
 !slave | output: ../pdf/science_Classifying_Elements_Note_Catcher.pdf
 !slave | title_head: -1
 !slave | geometry: a4paper

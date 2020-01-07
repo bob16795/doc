@@ -1,5 +1,5 @@
 ---
-!slave | file_type: pdf_latex
+!slave | file_type: straight_pdf
 !slave | output: ../pdf/ela_The_Crucible_Questions.pdf
 !slave | title_head: -1
 !slave | geometry: a4paper

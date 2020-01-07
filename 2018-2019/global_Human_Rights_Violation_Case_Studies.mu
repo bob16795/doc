@@ -1,5 +1,5 @@
 ---
-!slave | file_type: pdf_latex
+!slave | file_type: straight_pdf
 !slave | output: ../pdf/global_Human_Rights_Violations.pdf
 !slave | title_head: -1
 !slave | geometry: a4paper
@@ -14,10 +14,10 @@
 - "ethnic clenching".
 - Fighting ended after a NATO bombing campaign
 - Serbs (Orthodox Christians), Croats (Catholics), Bosnians (Muslims) and ethnic Albanians (Muslims).
-- the Death of Yugoslavia’s president
+- the Death of Yugoslavia's president
 - Milosevic seized these nationalist feelings to engineer changes that strengthened Serbia's position in the Yugoslav constitution.
 - Bosnian Serb forces backed by the Serb dominated Yugoslav army immediately launched offensives to control areas they coveted.
-- an intensive bombing campaign of Bosnia’s capital
+- an intensive bombing campaign of Bosnia's capital
 - Capture and "cleanse"
   - war crimes
   - ignorance

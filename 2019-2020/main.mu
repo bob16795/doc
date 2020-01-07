@@ -1,5 +1,5 @@
 ---
-!slave | file_type: pdf_latex
+!slave | file_type: straight_pdf
 !slave | output: ../pdf/main2019-2020.pdf
 !slave | use: 2019-2020/^.*_master\.mu$
 !slave | title_head: 0

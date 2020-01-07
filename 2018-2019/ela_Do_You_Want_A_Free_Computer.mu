@@ -1,5 +1,5 @@
 ---
-!slave | file_type: pdf_latex
+!slave | file_type: straight_pdf
 !slave | output: ../pdf/ela_Do_You_Want_a_Free_Computer.pdf
 !slave | title_head: -1
 !slave | geometry: a4paper
@@ -15,7 +15,7 @@ computers use transistors to process information and transistors can only proces
 zeros. People thought this method was too complex so they programmed a compiler. This
 allowed them to code with human readable languages. When a piece of code is compiled, it is
 made into two documents such as the actual machine readable code and the human readable
-code. Let’s say a person is the head of a big company. Would he/she release the source code
+code. Let's say a person is the head of a big company. Would he/she release the source code
 and risk someone stealing their code and making money off of their code? This is where the
 two Ethics Open Source and Proprietary software come from. There are many reasons why
 Open Source Software is better than proprietary software. Two of the best reasons are: Open
@@ -23,7 +23,7 @@ Source Software (also known as free software) is more efficient at making softwa
 and, Open Source Software is better for the consumers.
 
 Open Source Software is more efficient at making software evolve and become more
-powerful. One of the best sites for letting others see the source for one’s Open Source
+powerful. One of the best sites for letting others see the source for one's Open Source
 Software is GitHub.com which allows others to download their software. The reason this is
 relevant is that it allows an individual to "fork." (Trishume 2014) A fork is when someone
 takes the code, modifies it and re-uploads it. For example, the file manager Luke Smith
