@@ -2,7 +2,7 @@
 !slave | file_type: straight_pdf
 !slave | output: ../pdf/science_lab_report3.pdf
 !slave | title_head: 1
-!slave | title: using absorbtion to calculate concentration
+!slave | title: using absorption to calculate concentration
 !slave | geometry: a4paper
 !slave | title_page: True
 !slave | title: USING THE IDEAL GAS LAW TO CALCULATE CONCENTRATION
@@ -69,11 +69,13 @@ H: 0.0x1x130,000 = .0
 
 3. get 50mL of stock solution containing blue dye
 
-4. 
+4. use serological pipet to measure volumes of the solutions
+
+5.
 
 ## Data Table
 
-solution: absorbtion.
+solution: absorption.
 
 A: 0.92
 
@@ -122,3 +124,4 @@ y = 129970x+.0003105
 <NEWPAGE>
 
 ## Report
+
