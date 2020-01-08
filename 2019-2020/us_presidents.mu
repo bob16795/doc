@@ -33,8 +33,26 @@
   - controlled the mississippi river!!
   - gave the united states the im\-port\-ant city of new Orleans
 - War of 1812
- - Causes
-   - england messes with us shipping
-   - impresment of american soldiers
- - effects
+  - Causes
+    - england messes with us shipping
+    - impressment of american soldiers
+    - americans believe natives pushed to fight americans
+    - war hawks
 - embargo act of 1807
+- jefferson never goes to war
+
+# james madison
+
+- author of fed papers
+- in 1812 he declares war
+- 2nd war of ind
+- andrew jackson
+- effects of war of 1812
+  - treaty of gent
+    - treaty that ends war of 1812
+    - ends in draw
+  - increases american nationalism
+    - uncle sam
+  - growth of us manufacturing and business
+  - native americans weakened
+  - us proves it can defend its self again

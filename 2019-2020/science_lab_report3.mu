@@ -91,6 +91,8 @@ G: 0.10
 
 H: 0.00
 
+Sports Drink: 0.64
+
 <NEWPAGE>
 
 ## Calculations
@@ -107,33 +109,16 @@ E: c = 0.32 / 130,000 = 2.46x10^-6M
 
 F: c = 0.19 / 130,000 = 1.46x10^-6M
 
-G: c = 0.10 / 130,000 = 7.69x10^-6M
+G: c = 0.10 / 130,000 = 0.69x10^-6M
 
 H: c = 0.00 / 130,000 = 0.00M
 
-## Post-lab questions
+Sports Drink: c = 0.16 / 130,000 = 1.23x10^-6M
 
-### Question 1
+line of best fit
 
-no the calculated percent Hydrogen Peroxide was 15%.
-
-### Question 2
-
-the more catalyst you use the faster the reaction would be.
-but the more catalyst you use the more catalyst you need.
+y = 129970x+.0003105
 
 <NEWPAGE>
 
 ## Report
-
-\\fontsize{12pt}{24pt}\\selectfont
-In this lab I measured the results of the decomposition of $H_2O_2$ using a catalyst.
-To acquire my data I used a graduated cylinder that collected oxygen.
-The purpose of the lab was to use the ideal gas law to calculate percent composition.
-
-\\indent I found that the produced $O_2$ was less than expected when decomposing 3% $H_2O_2$.
-In the end I got that the percent composition was 1.279% which leads to a 42.633% yield.
-
-\\indent This may be due to the reaction not completely finishing, a leaky tube or stopper, or not putting the stopper on fast enough.
-If I were to do this lab again, I would give the reaction more time to react.
-
