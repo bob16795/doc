@@ -32,4 +32,9 @@
   - the us's land goes to the rocky mountains
   - controlled the mississippi river!!
   - gave the united states the im\-port\-ant city of new Orleans
- 
+- War of 1812
+ - Causes
+   - england messes with us shipping
+   - impresment of american soldiers
+ - effects
+- embargo act of 1807
