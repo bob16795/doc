@@ -32,9 +32,9 @@ The ideal gas law is $PV=nRT$ where p is pressure, v is volume, n is number of m
 
 $$PV=nRT$$
 
-$$n=\\frac{PV}{RT}=\\frac{0.980*500mL}{0.0821*298K}=20.080mol$$
+$$n=\\frac{PV}{RT}=\\frac{0.980*.5L}{0.0821*298K}=.002mol$$
 
-.20.080 moles of $O_2$ are expected.
+.002 moles of $O_2$ are expected.
 
 ## Question 4
 
@@ -146,4 +146,4 @@ In the end I got that the percent composition was 1.279% which leads to a 42.633
 
 \\indent This may be due to the reaction not completely finishing, a leaky tube or stopper, or not putting the stopper on fast enough.
 If I were to do this lab again, I would give the reaction more time to react.
-
+This lab helped me to solidify how the ideal gas law impacts reactions.
