@@ -1,5 +1,5 @@
 ---
-!slave | file_type: pdf_latex
+!slave | file_type: straight_pdf
 !slave | output: ../pdf/main<+Date+>.pdf
 !slave | use: <+Date+>/^.*_master\.mu$
 !slave | title_head: 1

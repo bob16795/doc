@@ -1,5 +1,5 @@
 ---
-!slave | file_type: pdf_latex
+!slave | file_type: straight_pdf
 !slave | output: ../pdf/ela_Journal.pdf
 !slave | title_head: -1
 !slave | geometry: a4paper
@@ -19,11 +19,11 @@ their house is red.
 
 Their name is john.
 
-It’s their life.
+It's their life.
 
-I cannot see their cat’s.
+I cannot see their cat's.
 
-You don’t see their dog’s?
+You don't see their dog's?
 
 Foreshadowing:
 

@@ -1,5 +1,5 @@
 ---
-file_type: pdf_latex
+file_type: straight_pdf
 output: ../pdf/master.pdf
 use: 2018-2019/main.mu; 2019-2020/main.mu
 title: NOTES

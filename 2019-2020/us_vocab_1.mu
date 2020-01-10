@@ -1,5 +1,5 @@
 ---
-!slave | file_type: pdf_latex
+!slave | file_type: straight_pdf
 !slave | output: ../pdf/us_vocab_1.pdf
 !slave | title_head: -1
 !slave | geometry: a4paper
@@ -7,7 +7,7 @@
 
 # Vocab
 
-In the column on the left hand side are 10 of the most essential terms for this unit’s content.  In the second column, write the definition on your own words. 
+In the column on the left hand side are 10 of the most essential terms for this unit's content.  In the second column, write the definition on your own words. 
 
 - Federalism 
   - When states have their own government
