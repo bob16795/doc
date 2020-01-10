@@ -99,29 +99,14 @@ Sports Drink: 0.64
 
 ## Calculations
 
-A: c = 0.92 / 130,000 = 7.08x10^-6M
+line of best fit: y = .132x+.0121
 
-B: c = 0.77 / 130,000 = 5.92x10^-6M
+sports drink concentration: y = .132(.64)+.0121 = .09658
 
-C: c = 0.57 / 130,000 = 4.38x10^-6M
-
-D: c = 0.38 / 130,000 = 2.92x10^-6M
-
-E: c = 0.32 / 130,000 = 2.46x10^-6M
-
-F: c = 0.19 / 130,000 = 1.46x10^-6M
-
-G: c = 0.10 / 130,000 = 0.69x10^-6M
-
-H: c = 0.00 / 130,000 = 0.00M
-
-Sports Drink: c = 0.16 / 130,000 = 1.23x10^-6M
-
-line of best fit
-
-y = 129970x+.0003105
+percent error: 94%
 
 <NEWPAGE>
 
 ## Report
 
+in this lab we used a spectrophotometer to calculate concentration of a solution.
