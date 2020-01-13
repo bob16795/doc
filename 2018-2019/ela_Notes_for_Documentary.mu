@@ -16,7 +16,7 @@ We have killed 90% of sharks which predate
 If all humans became vegetarians we would make a massive difference.
 There no point in fixing the world if you can not teach the future.
 We are killing animals 50% fast because of co2, pollution, mass fishing.
-“humanity has become the asteroid.
+"humanity has become the asteroid.
 Refinery's leak oil.
 Some people fish because they have no other choice.
 Co2 make the ocean acidic.

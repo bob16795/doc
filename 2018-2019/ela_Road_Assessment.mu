@@ -11,15 +11,15 @@
 
 Quote 1:
 
-“You forget what you want to remember and remember what you want to forget.”
+"You forget what you want to remember and remember what you want to forget."
 
 Quote 1 Response:
 
-The quote “You forget what you want to remember and remember what you want to forget.” Resonates with me. I thought it was significant because it's true.
+The quote "You forget what you want to remember and remember what you want to forget." Resonates with me. I thought it was significant because it's true.
 
 Quote 2:
 
-“Huddled against the back wall were naked people...”
+"Huddled against the back wall were naked people..."
 
 2.2:
 

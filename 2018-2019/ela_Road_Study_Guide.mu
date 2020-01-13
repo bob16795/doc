@@ -15,12 +15,12 @@
   - They're going to the ocean for water.
 - Think about the literary style of the book why is this different than normal books
   - Because it's not as good as normal books.
-- Explain the quote “I suppose this book is a love story to my son”:
+- Explain the quote "I suppose this book is a love story to my son":
   - He cares about his son.
 
 ## (8-17)
 
-- what does the father mean when he says, “you forget what you want to remember and remember what you want to forget?”
+- what does the father mean when he says, "you forget what you want to remember and remember what you want to forget?"
   - 1He means what he said.
 - Why new vocab?
   - New words for new world.
@@ -31,7 +31,7 @@
 
 - Good dreams?
   - Because they help you sleep
-- “treat”?
+- "treat"?
   - Soda.
 - Danger?
   - There could be someone living there.
@@ -87,7 +87,7 @@
 
 - Kill the dog?
   - Its un necessary
-- Meaning “fire”?
+- Meaning "fire"?
   - Were safe because we have fire.
 - Real?
   - No, it's not real.
@@ -158,7 +158,7 @@
 
 ## (168-180)
 
-- Explain “beggars”?
+- Explain "beggars"?
   - Need is different from want.
 - Why Food?
   - The boy is kind.
@@ -186,7 +186,7 @@
   - They were in a rush.
 - Emotional
   - He isn't as disturbed.
-- Baby … from where?
+- Baby ... from where?
   - The pregnant lady with them
 - Father feels?
   - Bad.
