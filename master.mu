@@ -14,8 +14,14 @@ multicols: True
 
 <PRT: 2018-2019>
 
+<COL: 2>
+
 Inc: 2018-2019/main.mu
 
+<COL: 1>
+
 <PRT: 2019-2020>
+
+<COL: 2>
 
 Inc: 2019-2020/main.mu

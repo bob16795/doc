@@ -5,4 +5,4 @@
 
 <CPT: Global>
 
-Inc: ^global\_(?!master).\*mu\$
+Inc: ^global_(?!master).*mu$

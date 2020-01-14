@@ -9,6 +9,8 @@
 
 # Road Study Guide
 
+<COL: 3>
+
 ## (1-7)
 
 - Where is the man and the boy going? Why?
@@ -237,3 +239,5 @@
 
 - Find him?
   - They look for snow.
+
+<COL: 2>

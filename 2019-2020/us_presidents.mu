@@ -56,3 +56,7 @@
   - growth of us manufacturing and business
   - native americans weakened
   - us proves it can defend its self again
+
+# james Monroe
+
+- 

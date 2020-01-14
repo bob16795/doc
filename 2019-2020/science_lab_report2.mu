@@ -20,7 +20,7 @@ We will then use collected oxygen gas and the ideal gas law to calculate percent
 
 # Prelab questions
 
-## Question 1 
+## Question 1
 
 In the yeast there are enzymes that break down the hydrogen peroxide.
 
