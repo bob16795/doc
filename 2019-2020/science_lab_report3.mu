@@ -63,15 +63,21 @@ H: 0.0x1x130,000 = .0
 
 ## Procedure
 
-1. Turn on the spectrophotometer 15-20 minutes in advanced
+1. Turn on the spectrophotometer 15-20 minutes in advanced.
 
-2. calibrate the spectrophotometer with the correct wave length
+2. calibrate the spectrophotometer with the correct wave length.
 
-3. get 50mL of stock solution containing blue dye
+3. get 50mL of stock solution containing blue dye.
 
-4. use serological pipet to measure volumes of the solutions
+4. use serological pipet to measure volumes of the solutions.
 
-5.
+5. rinse pipette.
+
+6. put correct amounts of solute and solvent in test tubes .
+
+7. calabrate the spectrophotometer.
+
+8. record absorbance of all solutions and sports drink.
 
 ## Data Table
 
@@ -110,3 +116,9 @@ percent error: 94%
 ## Report
 
 in this lab we used a spectrophotometer to calculate concentration of a solution.
+to acquire my data i used a spectrophotometer. the purpose of this lab was to calculate the concentration of a blue sports drink.
+
+I found that the concentration of the sports drink .09658 micro meters the correct value should be 1.75 micro meters.
+the percent error was 94% probably due to finger prints on the test tube, or mis measurement.
+
+if i were to do this lab again i would be more careful to not get finger prints on the test tubes.
