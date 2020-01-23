@@ -1,10 +1,9 @@
 ---
 !slave | file_type: straight_pdf
-!slave | output: ../pdf/ela_Do_You_Want_a_Free_Computer.pdf
+!slave | output: ../../pdf/ela_Do_You_Want_a_Free_Computer.pdf
 !slave | title_head: -1
 !slave | geometry: a4paper
 ---
-
 <IDX: Open Source; Freedom; Computer>
 
 # Do You Want A Free Computer

@@ -1,10 +1,9 @@
 ---
 !slave | file_type: straight_pdf
-!slave | output: ../pdf/cim_rapid_prototyping.pdf
+!slave | output: ../../pdf/cim_rapid_prototyping.pdf
 !slave | title_head: -1
 !slave | geometry: a4paper
 ---
-
 # rapid prototyping
 
 - directly, electronic data, build fabrications layer by layer.

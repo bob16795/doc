@@ -1,10 +1,9 @@
 ---
 !slave | file_type: straight_pdf
-!slave | output: ../pdf/us_constitution_preamble.pdf
+!slave | output: ../../pdf/us_constitution_preamble.pdf
 !slave | title_head: -1
 !slave | geometry: a4paper
 ---
-
 # Constitution Preamble reasons
 
 - more perfect union

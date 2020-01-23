@@ -1,10 +1,9 @@
 ---
 !slave | file_type: straight_pdf
-!slave | output: ../pdf/global_Cultural_Revolution.pdf
+!slave | output: ../../pdf/global_Cultural_Revolution.pdf
 !slave | title_head: -1
 !slave | geometry: a4paper
 ---
-
 <IDX: China; Culture; MAO>
 
 # Cultural revolution

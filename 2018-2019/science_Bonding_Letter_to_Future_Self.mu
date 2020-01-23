@@ -1,10 +1,9 @@
 ---
 !slave | file_type: straight_pdf
-!slave | output: ../pdf/science_Bonding_Note_To_Self.pdf
+!slave | output: ../../pdf/science_Bonding_Note_To_Self.pdf
 !slave | title_head: -1
 !slave | geometry: a4paper
 ---
-
 <IDX: Bonding; Letter>
 
 # Bonding Note To Self

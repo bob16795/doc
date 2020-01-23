@@ -1,15 +1,14 @@
 ---
 !slave | file_type: straight_pdf
-!slave | output: ../pdf/ela_4-3-2-1.pdf
+!slave | output: ../../pdf/ela_4-3-2-1.pdf
 !slave | title_head: -1
 !slave | geometry: a4paper
 ---
-
 <IDX: Speak>
 
 # 4-3-2-1
 
-- **big** things I learned while reading
+- big things I learned while reading
   - she doesn't want to write an essay, so she skipped school.
   - she talked to me freeman.
   - she has gained weight.

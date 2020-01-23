@@ -1,10 +1,9 @@
 ---
 !slave | file_type: straight_pdf
-!slave | output: ../pdf/us_road_to_revolution.pdf
+!slave | output: ../../pdf/us_road_to_revolution.pdf
 !slave | title_head: -1
 !slave | geometry: a4paper
 ---
-
 <IDX: America; Revolution; Boston; Excise Taxes; Massacre>
 
 # road to revolution

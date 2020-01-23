@@ -1,6 +1,6 @@
 ---
 !slave | file_type: straight_pdf
-!slave | output: ../pdf/science_Study_Guide.pdf
+!slave | output: ../../pdf/science_Study_Guide.pdf
 !slave | title_head: -1
 !slave | geometry: a4paper
 ---

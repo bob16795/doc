@@ -1,10 +1,9 @@
 ---
 !slave | file_type: straight_pdf
-!slave | output: ../pdf/us_middle_colonies_notes.pdf
+!slave | output: ../../pdf/us_middle_colonies_notes.pdf
 !slave | title_head: -1
 !slave | geometry: a4paper
 ---
-
 # Middle Colonies Notes
 
 ## new netherlands

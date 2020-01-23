@@ -1,10 +1,9 @@
 ---
 !slave | file_type: straight_pdf
-!slave | output: ../pdf/us_Native_Americans.pdf
+!slave | output: ../../pdf/us_Native_Americans.pdf
 !slave | title_head: -1
 !slave | geometry: a4paper
 ---
-
 # Native Americans
 
 ## Way of life for native americans

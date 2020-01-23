@@ -1,10 +1,9 @@
 ---
 !slave | file_type: straight_pdf
-!slave | output: ../pdf/health_Healthy_Journals.pdf
+!slave | output: ../../pdf/health_Healthy_Journals.pdf
 !slave | title_head: -1
 !slave | geometry: a4paper
 ---
-
 # Healthy Journals
 
 ## Heath Triangle

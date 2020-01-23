@@ -1,10 +1,9 @@
 ---
 !slave | file_type: straight_pdf
-!slave | output: ../pdf/us_Fedralism.pdf
+!slave | output: ../../pdf/us_Fedralism.pdf
 !slave | title_head: -1
 !slave | geometry: a4paper
 ---
-
 <IDX: Fedralism>
 
 # Fedralism

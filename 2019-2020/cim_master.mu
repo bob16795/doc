@@ -1,8 +1,7 @@
 ---
 !slave | ignore: True
-!slave | use: 2019-2020/^cim_(?!master).*mu$
+!slave | use: ^cim_(?!master).*mu$
 ---
-
 <CPT: CIM>
 
-Inc: ^cim\_(?!master).*\.mu$
+!Inc: ^cim\_(?!master).*\.mu$

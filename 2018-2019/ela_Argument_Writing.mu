@@ -1,10 +1,9 @@
 ---
 !slave | file_type: straight_pdf
-!slave | output: ../pdf/ela_argument_Writing.pdf
+!slave | output: ../../pdf/ela_argument_Writing.pdf
 !slave | title_head: -1
 !slave | geometry: a4paper
 ---
-
 <IDX: Fight>
 
 # Argument Writing

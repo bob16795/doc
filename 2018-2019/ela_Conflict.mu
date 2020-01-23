@@ -1,10 +1,9 @@
 ---
 !slave | file_type: straight_pdf
-!slave | output: ../pdf/ela_Conflict.pdf
+!slave | output: ../../pdf/ela_Conflict.pdf
 !slave | title_head: -1
 !slave | geometry: a4paper
 ---
-
 <IDX: Authors Purpose>
 
 # Conflict
@@ -25,3 +24,4 @@
 - hanger games.
 - when bob loses his job because he fought john.
 - people don't like Melinda
+../
