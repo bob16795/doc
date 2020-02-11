@@ -19,9 +19,9 @@ this is __BOLD__ and this is _EMPH_
 
 !this is a comment
 
-$this is an if: statment
+!If: this: is an if statment
 
-|lol|nope|
+|3|4|
 |---|----|
 |nope|lol|
 |nope|lol|

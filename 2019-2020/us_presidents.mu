@@ -4,6 +4,8 @@
 !slave | title_head: -1
 !slave | geometry: a4paper
 ---
+<IDX: Presidents>
+
 # Thomas Jefferson
 
 - important president
@@ -59,13 +61,16 @@
 # James Monroe
 
 - Monroe doctrine
+  - beat it
 
 # Andrew Jackson
 
 - 7th president
 - 20 dollar bill
 - military hero in war of 1812
+  - battle of new orleans
 - from Tennessee
+  - not born in virginia
 - beat john q. Adams
 - corrupt bargain
   - no one wins enough votes
@@ -81,5 +86,5 @@
   - considered this treasonous
 - national bank
   - symbolized privilege
+  - strict interpretation of the constitution
   - closed national bank
-- 
