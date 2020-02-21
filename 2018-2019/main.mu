@@ -1,5 +1,4 @@
 ---
-!slave | file_type: straight_pdf
 !slave | output: ../../pdf/main2018-2019.pdf
 !slave | use: ^.*_master\.mu$
 !slave | title_head: 0

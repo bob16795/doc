@@ -1,5 +1,4 @@
 ---
-!slave | file_type: straight_pdf
 !slave | output: ../../pdf/ela_Friday_01-11.pdf
 !slave | title_head: -1
 !slave | geometry: a4paper
