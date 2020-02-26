@@ -16,7 +16,8 @@ To read table 1 you look at :precolumn 3 which says which colors it is and to fi
 
 ## Neutralization reactions
 
-Example: $HCL(aq) + NaOH(aq) > H_2O(l) + NaCl(aq)$
+Example:
+$HCL(aq) + NaOH(aq) > H\_2_O(l) + NaCl(aq)$
 
 Generally: ACID+BASE > WATER+SALT
 

@@ -87,3 +87,9 @@
   - symbolized privilege
   - strict interpretation of the constitution
   - closed national bank
+
+# Abe Lincon
+
+- he got elected with out any southern states
+  - first republican president
+
