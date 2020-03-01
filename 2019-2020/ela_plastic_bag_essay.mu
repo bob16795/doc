@@ -1,5 +1,5 @@
 ---
-!slave | output: ../../pdf/ela_Do_You_Want_a_Free_Computer.pdf
+!slave | output: ../../pdf/ela_plastic_Bag_essay.pdf
 !slave | title_head: -1
 !slave | geometry: a4paper
 ---
