@@ -19,15 +19,12 @@ The process we will use is titration.
 
 <SETCNT: 1>
 
-In this experiment vinegar will be the titrant and the sodium hydroxide will be the analyte.
+1. In this experiment vinegar will be the titrant and the sodium hydroxide will be the analyte.
 
-25.0/1000 = 0.0250, 23.9/1000 = .0239, 0.0250 / .0239 * 1000 = 1.05
+2. 25.0/1000 = 0.0250, 23.9/1000 = .0239, 0.0250 / .0239 * 1000 = 1.05
 The concentration is 1.05 M
 
-Titration curve
-!TODO: splines?
-
-.
+4. 
 
 $-log(3.8x10\^-10^) = 9.42$
 
@@ -73,6 +70,12 @@ Trial 1 Equivalence Point Burette Reading: 22.6 mL
 
 Trial 1 Volume of NaOH used: 13.5 mL
 
+Trial 1 Moles of NaOH: .4589 Moles
+
+Trial 1 Moles of vinegar: .4589 Moles
+
+
+
 <LINEBR>
 
 Trial 2 Volume of Vinegar: 15 mL
@@ -82,6 +85,10 @@ Trial 2 Initial Burette Reading: 22.6 mL
 Trial 2 Equivalence Point Burette Reading: 36.3 mL
 
 Trial 2 Volume of NaOH used: 14.3 mL
+
+Trial 1 Moles of NaOH: .4862 Moles
+
+Trial 1 Moles of vinegar: .4862 Moles
 
 ## Table
 
@@ -141,5 +148,28 @@ Burette Reading - pH  - Voulme of NaOH
 | 12.1 | 13.03 | 18.5 |
 | 11.6 | 13.04 | 19.0 |
 
-<COLBR>
+<COL: 1>
+# post-lab Questions
 
+1. the pH is not equal to 7 because the the substance is not completely water. there would be more NaOH. 
+
+2. the pH at the equivalence point would be greater than 7. the ion that would be in significant amount would be A-.
+
+3. phenolphthalein is a good indicator because it includes the equivalence point.
+
+4.
+$ph = -log(1.8x10\^-5^)$
+
+# calculations
+
+$33.998 g/mol * 13.5mL * 1L/1000mL = .4589 moles$
+$.4598 moles / (15mL * 1000) = 3.06*10\^-5^$
+<LIN:20>
+$33.998 g/mol * 14.3mL * 1L/1000mL = .4862 moles$
+$.4862 moles / (15mL * 1000) = 3.24*10\^-5^$
+
+# Report
+
+In this lab I will be using titration to calculate concentration of vinegar.
+
+In the end the results show the concentration of the vinegar was 3.15.
