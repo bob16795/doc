@@ -1,7 +1,6 @@
 ---
 !slave | output: ../../pdf/science_lab_report3.pdf
 !slave | title_head: 1
-!slave | title: using absorption to calculate concentration
 !slave | geometry: a4paper
 !slave | title_page: True
 !slave | title: USING THE IDEAL GAS LAW TO CALCULATE CONCENTRATION
@@ -114,3 +113,9 @@ percent error: 94%
 ## Report
 
 in this lab we used a spectrophotometer to calculate concentration of a solution.
+to acquire my data i used a spectrophotometer. the purpose of this lab was to calculate the concentration of a blue sports drink.
+
+I found that the concentration of the sports drink .09658 micro meters the correct value should be 1.75 micro meters.
+the percent error was 94% probably due to finger prints on the test tube, or mis measurement.
+
+if i were to do this lab again i would be more careful to not get finger prints on the test tubes.
