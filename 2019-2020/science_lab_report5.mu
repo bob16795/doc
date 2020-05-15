@@ -8,8 +8,9 @@
 !slave | header: ,,
 !slave | footer: ,{page_number},
 ---
-!!Inc: ../macros.mu
 # Purpose
+
+!Inc: ../macros.mu
 
 In this lab I will be using titration to calculate concentration of vinegar.
 The process we will use is titration.
@@ -18,15 +19,15 @@ The process we will use is titration.
 
 <SETCNT: 1>
 
-()n(). In this experiment vinegar will be the titrant and the sodium hydroxide will be the analyte.
+In this experiment vinegar will be the titrant and the sodium hydroxide will be the analyte.
 
-()n(). 25.0/1000 = 0.0250, 23.9/1000 = .0239, 0.0250 / .0239 * 1000 = 1.05
+25.0/1000 = 0.0250, 23.9/1000 = .0239, 0.0250 / .0239 * 1000 = 1.05
 The concentration is 1.05 M
 
-()n(). Titration curve
+Titration curve
 !TODO: splines?
 
-()n().
+.
 
 $-log(3.8x10\^-10^) = 9.42$
 
@@ -34,28 +35,29 @@ $-log(3.8x10\^-10^) = 9.42$
 
 <SETCNT: 1>
 
-()n(). get a 50 ml burette, clamp it on a ring stand.
+get a 50 ml burette, clamp it on a ring stand.
 
-()n(). rinse the burette with distilled water.
+rinse the burette with distilled water.
 
-()n(). rinse the burette with NaOH
+rinse the burette with NaOH
 
-()n(). fill the burette with NaOH
+fill the burette with NaOH
 
-()n(). put 250 ml of vinegar in erlenmeyer flask
+put 250 ml of vinegar in erlenmeyer flask
 
-()n(). add 2 drops of phenolphthalein to the flask
+add 2 drops of phenolphthalein to the flask
 
-()n(). begin titration
+begin titration
 
 <SET: repeat = n>
 
-()n(). end titration when the flask turns pink
+end titration when the flask turns pink
 
-()n(). repeat steps 1-()repeat() 1 more time
+repeat steps 1-()repeat() 1 more time
 
-()n(). repeat steps 1-()repeat() without phenolphthalein
+repeat steps 1-()repeat() without phenolphthalein
 
+<ENDCNT>
 # Data
 ## numbers
 
@@ -83,10 +85,61 @@ Trial 2 Volume of NaOH used: 14.3 mL
 
 ## Table
 
-| Burette Reading | pH  | Voulme of NaOH
-|---|---|---|
+Burette Reading - pH  - Voulme of NaOH
+
+<COL: 3>
+
+| Burette Reading | pH  | Voulme of NaOH |
+|-|-|-|
 | 30.6 | 3.43 | 0.0 |
 | 30.1 | 4.18 | 0.5 |
-| 30.6 | 4.43 | 0.0 |
-| 30.6 | 4.62 | 0.0 |
-| 30.6 | 3.43 | 0.0 |
+| 29.6 | 4.43 | 1.0 |
+| 29.1 | 4.62 | 1.5 |
+| 28.5 | 4.73 | 2.1 |
+| 28.1 | 4.95 | 2.5 |
+| 27.6 | 5.06 | 3.0 |
+| 27.1 | 5.13 | 3.5 |
+| 26.6 | 5.20 | 4.0 |
+| 26.1 | 5.28 | 4.5 |
+| 25.6 | 5.34 | 5.0 |
+| 25.1 | 5.42 | 5.5 |
+| 24.6 | 5.50 | 6.0 |
+
+<COLBR>
+
+| Burette Reading | pH  | Voulme of NaOH |
+|-|-|-|
+| 24.1 | 5.55 | 6.5  |
+| 23.6 | 5.63 | 7.0  |
+| 23.1 | 5.68 | 7.5  |
+| 22.6 | 5.76 | 8.0  |
+| 22.1 | 5.83 | 8.5  |
+| 21.6 | 5.91 | 9.0  |
+| 21.1 | 5.99 | 9.5  |
+| 20.6 | 6.06 | 10.0 |
+| 20.1 | 6.16 | 10.5 |
+| 19.6 | 6.32 | 11.0 |
+| 19.1 | 6.46 | 11.5 |
+| 18.6 | 6.65 | 12.0 |
+| 18.1 | 7.20 | 12.5 |
+
+<COLBR>
+
+| Burette Reading | pH  | Voulme of NaOH |
+|-|-|-|
+| 17.6 | 11.65 | 13.0 |
+| 17.1 | 12.54 | 13.5 |
+| 16.6 | 12.75 | 14.0 |
+| 16.1 | 12.83 | 14.5 |
+| 15.6 | 12.91 | 15.0 |
+| 15.1 | 12.94 | 15.5 |
+| 14.6 | 12.97 | 16.0 |
+| 14.1 | 13.00 | 16.5 |
+| 13.6 | 13.00 | 17.0 |
+| 13.1 | 13.02 | 17.5 |
+| 12.6 | 13.02 | 18.0 |
+| 12.1 | 13.03 | 18.5 |
+| 11.6 | 13.04 | 19.0 |
+
+<COLBR>
+
