@@ -1,7 +1,7 @@
 ---
 !slave | output: ../../pdf/us_post_civil_war.pdf
 ---
-<IDX: Civil war; union; confederacy>
+<IDX: Civil war; Union; Confederacy; Reconstruction>
 
 # Post Civil War (reconstruction)
 
@@ -18,4 +18,7 @@
   - made people in his own party mad
     - to nice to south
     - radical republicans
+- freed-men's bureau
 - Wade Davis bill
+- black codes
+  - controlled freedom of African Americans
