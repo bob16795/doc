@@ -7,6 +7,8 @@
 !slave | title_page: True
 !slave | title: USING THE IDEAL GAS LAW TO CALCULATE CONCENTRATION
 !slave | author: Preston Precourt
+!slave | header: ,,
+!slave | footer: ,{page_number},
 ---
 # using absorption to calculate concentration
 

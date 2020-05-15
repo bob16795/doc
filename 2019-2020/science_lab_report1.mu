@@ -4,6 +4,8 @@
 !slave | title_head: -1
 !slave | title: determination of limiting reagent to calculate percent error
 !slave | geometry: a4paper
+!slave | header: ,,
+!slave | footer: ,{page_number},
 ---
 # usage of limiting reagent to calculate percent error
 

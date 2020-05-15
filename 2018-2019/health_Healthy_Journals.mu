@@ -4,7 +4,7 @@
 !slave | title_head: -1
 !slave | geometry: a4paper
 ---
-# Healthy Journals
+# Healthy Joe-urnals
 
 ## Heath Triangle
 
