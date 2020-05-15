@@ -7,6 +7,8 @@
 !slave | header: ,,
 !slave | footer: ,{page_number},
 ---
+!Inc: ../macros.mu
+
 <COL: 1>
 
 # Purpose
@@ -45,33 +47,37 @@ KSP = [AG]^2[CrO4]
 
 ## part 1
 
-1. make sure you have 12 wells from right to left
+<SETCNT: 1>
 
-2. Put 5 drops in well 1
+make sure you have 12 wells from right to left
 
-3. place 5 drops of distilled water in wells 2-12
+Put 5 drops in well 1
 
-4. add 5 drops in well 2
+place 5 drops of distilled water in wells 2-12
 
-5. use popet to stir well 2
+add 5 drops in well 2
 
-6. put 5 drops from well 2 in well in well 3
+use popet to stir well 2
 
-7. put remaining solution in well 2
+put 5 drops from well 2 in well in well 3
 
-8. mix in solution in well 3
+put remaining solution in well 2
 
-9. continue with drops to well 12
+mix in solution in well 3
 
-10. discard 5 drops fro well 12  
+continue with drops to well 12
 
-11. record the concentration of wells 1-12
+discard 5 drops fro well 12  
+
+record the concentration of wells 1-12
 
 ## part 2
 
-12. put 5 drops of sodium hydroxide in wells 1-12
+put 5 drops of sodium hydroxide in wells 1-12
 
-13. use a pipette to  
+use a pipette to  
+
+<ENDCNT>
 
 # Calculation 
 

@@ -1,6 +1,8 @@
 ---
 !slave | output: ../../pdf/ela_speech_mc.pdf
 ---
+<IDX: NF>
+
 1. on line 10 Washington uses the term "sanguine expectations" what does this mean.
 
 A. depressing
