@@ -56,6 +56,30 @@
   - native americans weakened
   - us proves it can defend its self again
 
-# james Monroe
+# James Monroe
 
-- monroe doctrine
+- Monroe doctrine
+
+# Andrew Jackson
+
+- 7th president
+- 20 dollar bill
+- military hero in war of 1812
+- from Tennessee
+- beat john q. Adams
+- corrupt bargain
+  - no one wins enough votes
+  - H.O.R. votes for john q. Adams
+- property ownership no longer required to vote
+- Jackson portrayed himself as a man of the people
+- spoils system
+  - rewarding government jobs to friends and supporters
+  - "to the victor gets the spoils"
+- tariff issue
+  - southern states get mad due to protective tariffs
+  - Calhoun protested these actions
+  - considered this treasonous
+- national bank
+  - symbolized privilege
+  - closed national bank
+- 
