@@ -3,6 +3,8 @@
 !slave | title_head: -1
 !slave | geometry: a4paper
 ---
+<IDX: Crucible, The>
+
 # Close Read Act 1
 
 1- The last sentence in the first paragraph means that procter is so in his prime he almost feels too perfect.

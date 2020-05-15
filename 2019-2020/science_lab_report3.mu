@@ -9,6 +9,8 @@
 !slave | header: ,,
 !slave | footer: ,{page_number},
 ---
+!Inc: ../macros.mu
+
 # using absorption to calculate concentration
 
 ## Purpose
@@ -63,15 +65,17 @@ H: 0.0x1x130,000 = .0
 
 ## Procedure
 
-1. Turn on the spectrophotometer 15-20 minutes in advanced
+<SETCNT: 1>
 
-2. calibrate the spectrophotometer with the correct wave length
+Turn on the spectrophotometer 15-20 minutes in advanced
 
-3. get 50mL of stock solution containing blue dye
+calibrate the spectrophotometer with the correct wave length
 
-4. use serological pipet to measure volumes of the solutions
+get 50mL of stock solution containing blue dye
 
-5.
+use serological pipet to measure volumes of the solutions
+
+<ENDCNT>
 
 ## Data Table
 

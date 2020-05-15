@@ -3,6 +3,8 @@
 !slave | title_head: -1
 !slave | geometry: a4paper
 ---
+<IDX: Prototyping>
+
 # rapid prototyping
 
 - directly, electronic data, build fabrications layer by layer.

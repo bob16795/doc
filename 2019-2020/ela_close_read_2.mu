@@ -3,6 +3,8 @@
 !slave | title_head: -1
 !slave | geometry: a4paper
 ---
+<IDX: Crucible, The>
+
 # close read act 2
 
 1. I would characterize Elizabeth as a little bland and in the need to be spiced up

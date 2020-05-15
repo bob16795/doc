@@ -23,4 +23,3 @@ According to text 2 "The environmental balance of waterways is being thrown off 
 There are many ways to protect the environment, banning plastic bags being only one. 
 So at times it may seem beneficial there is always other better ways to protect the environment. 
 For example, pollution due to co2 or pollution in the water due to chemical plants. 
- 

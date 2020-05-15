@@ -6,6 +6,8 @@
 !slave | header: ,,
 !slave | footer: ,{page_number},
 ---
+<IDX: Percent Error; Limiting Reagent>
+
 # usage of limiting reagent to calculate percent error
 
 ## Purpose
