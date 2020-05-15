@@ -1,7 +1,7 @@
 ---
-!slave | output: ../../pdf/global_Human_Rights_Violations.pdf
-!slave | title_head: -1
-!slave | geometry: a4paper
+|| output: ../../pdf/global_Human_Rights_Violations.pdf
+| title_head: -1
+| geometry: a4paper
 ---
 <IDX: Genocide; Human Rights>
 
@@ -17,16 +17,16 @@
 - Bosnian Serb forces backed by the Serb dominated Yugoslav army immediately launched offensives to control areas they coveted.
 - an intensive bombing campaign of Bosnia's capital
 - Capture and "cleanse"
-  - war crimes
-  - ignorance
-  - genocide
+- war crimes
+- ignorance
+- genocide
 - An end to the war
 - UN High Commissioner for Refugees led an enormous aid operation aiding those displaced.
 - Uncertainty
 - Genocide.
-  - Slobodan Milosevic
-  - Radovan Karadzic
-  - Christiane Amirpour:
+- Slobodan Milosevic
+- Radovan Karadzic
+- Christiane Amirpour:
 
 <IDX: Genocide>
 

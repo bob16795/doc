@@ -1,5 +1,4 @@
 ---
-!slave | file_type: straight_pdf
 !slave | output: ../../pdf/ela_Thug_Quick_Write_3_Ways_to_Speak.pdf
 !slave | title_head: -1
 !slave | geometry: a4paper

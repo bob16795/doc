@@ -1,5 +1,4 @@
 ---
-!slave | file_type: straight_pdf
 !slave | output: ../../pdf/us_french_nd_indian_war.pdf
 !slave | title_head: -1
 !slave | geometry: a4paper
