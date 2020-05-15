@@ -1,7 +1,7 @@
 ---
 !slave | output: ../../pdf/ela_speech_mc.pdf
 ---
-\1. on line \1\0 Washington uses the term "sanguine expectations" what does this mean.
+1. on line 10 Washington uses the term "sanguine expectations" what does this mean.
 
 A. depressing
 
@@ -11,8 +11,8 @@ C. pessimistic
 
 D. correct
 
-<NEWLINE>
+<LINEBR>
 
-\2. Why did washington write this speach
+2. Why did washington write this speach
 
-\3. 
+3. 

@@ -1,6 +1,5 @@
 ---
 !slave | output: ../../pdf/science_lab_report5.pdf
-!slave | output: ../../pdf/science_lab_report5.pdf
 !slave | title_head: -1
 !slave | title: Using Ionic compounds to calculate Solubility product
 !slave | title_page: True
@@ -9,15 +8,15 @@
 !slave | header: ,,
 !slave | footer: ,{page_number},
 ---
-<COL: 1>
-
+!Inc: ../macros.mu
 # Purpose
 
 In this lab I will be using titration to calculate concentration of vinegar.
+The process we will use is titration.
 
 # pre-lab questions
 
-<SET: n=1>
+<SETCNT: 1>
 
 ()n(). In this experiment vinegar will be the titrant and the sodium hydroxide will be the analyte.
 
@@ -33,7 +32,7 @@ $-log(3.8x10\^-10^) = 9.42$
 
 # Procedure
 
-<SET: n=1>
+<SETCNT: 1>
 
 ()n(). get a 50 ml burette, clamp it on a ring stand.
 

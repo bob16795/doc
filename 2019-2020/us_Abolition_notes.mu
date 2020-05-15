@@ -1,11 +1,11 @@
 ---
-|| output: ../../pdf/us_abolition_notes.pdf
-| title_head: -1
-| geometry: a4paper
+!slave | output: ../../pdf/us_abolition_notes.pdf
+!slave | title_head: -1
+!slave | geometry: a4paper
 ---
 # Abolition notes
 
--daily lives of slaves
+- daily lives of slaves
   - Large family in 1 room cabin
   - slaves could marry and have kids
   - cruel punishment
@@ -37,4 +37,4 @@
   - was a spy for the union
 - Underground railroad
   - created by abolitionists
-  - 
+  - jd
