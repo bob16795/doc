@@ -1,10 +1,9 @@
 ---
 !slave | file_type: straight_pdf
-!slave | output: ../pdf/ela_Act_II_Reading_check.pdf
+!slave | output: ../../pdf/ela_Act_II_Reading_check.pdf
 !slave | title_head: -1
 !slave | geometry: a4paper
 ---
-
 # Act II Reading Check
 
 Elizabeth is speaking to Proctor.

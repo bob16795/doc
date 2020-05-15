@@ -1,6 +1,6 @@
 ---
 !slave | file_type: straight_pdf
-!slave | output: ../pdf/science_lab_report3.pdf
+!slave | output: ../../pdf/science_lab_report3.pdf
 !slave | title_head: 1
 !slave | title: using absorption to calculate concentration
 !slave | geometry: a4paper
@@ -8,7 +8,6 @@
 !slave | title: USING THE IDEAL GAS LAW TO CALCULATE CONCENTRATION
 !slave | author: Preston Precourt
 ---
-
 # using absorption to calculate concentration
 
 ## Purpose

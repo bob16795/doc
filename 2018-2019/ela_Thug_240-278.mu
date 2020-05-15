@@ -1,10 +1,9 @@
 ---
 !slave | file_type: straight_pdf
-!slave | output: ../pdf/ela_Thug_240-278.pdf
+!slave | output: ../../pdf/ela_Thug_240-278.pdf
 !slave | title_head: -1
 !slave | geometry: a4paper
 ---
-
 <IDX: Thug>
 
 # Thug 240-278

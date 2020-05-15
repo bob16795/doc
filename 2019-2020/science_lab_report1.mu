@@ -1,11 +1,10 @@
 ---
 !slave | file_type: straight_pdf
-!slave | output: ../pdf/science_lab_report1.pdf
+!slave | output: ../../pdf/science_lab_report1.pdf
 !slave | title_head: -1
 !slave | title: determination of limiting reagent to calculate percent error
 !slave | geometry: a4paper
 ---
-
 # usage of limiting reagent to calculate percent error
 
 ## Purpose

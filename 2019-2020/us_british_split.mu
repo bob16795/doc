@@ -1,10 +1,9 @@
 ---
 !slave | file_type: straight_pdf
-!slave | output: ../pdf/us_British_split.pdf
+!slave | output: ../../pdf/us_British_split.pdf
 !slave | title_head: -1
 !slave | geometry: a4paper
 ---
-
 # British split
 
 ## Enlightenment Influences

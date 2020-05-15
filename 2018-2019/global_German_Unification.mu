@@ -1,10 +1,9 @@
 ---
 !slave | file_type: straight_pdf
-!slave | output: ../pdf/global_German_Unification.pdf
+!slave | output: ../../pdf/global_German_Unification.pdf
 !slave | title_head: -1
 !slave | geometry: a4paper
 ---
-
 <IDX: Germany; Good Guys; Not Fun>
 
 # German Unification

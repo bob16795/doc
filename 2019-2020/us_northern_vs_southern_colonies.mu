@@ -1,10 +1,9 @@
 ---
 !slave | file_type: straight_pdf
-!slave | output: ../pdf/us_northern_vs_southern_colonies.pdf
+!slave | output: ../../pdf/us_northern_vs_southern_colonies.pdf
 !slave | title_head: -1
 !slave | geometry: a4paper
 ---
-
 # northern vs. southern colonies
 
 ## southern

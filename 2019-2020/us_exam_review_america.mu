@@ -1,10 +1,9 @@
 ---
 !slave | file_type: straight_pdf
-!slave | output: ../pdf/us_exam_review_america.pdf
+!slave | output: ../../pdf/us_exam_review_america.pdf
 !slave | title_head: -1
 !slave | geometry: a4paper
 ---
-
 # Exam Review America
 
 - describe the climate of the three regions in the 13 colonies

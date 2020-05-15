@@ -1,10 +1,9 @@
 ---
 !slave | file_type: straight_pdf
-!slave | output: ../pdf/ela_Notes_Paper.pdf
+!slave | output: ../../pdf/ela_Notes_Paper.pdf
 !slave | title_head: -1
 !slave | geometry: a4paper
 ---
-
 <IDX: Notes; Sophomore paper>
 
 # Notes Paper

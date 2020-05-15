@@ -1,10 +1,9 @@
 ---
 !slave | file_type: straight_pdf
-!slave | output: ../pdf/global_Tiananmen_Square.pdf
+!slave | output: ../../pdf/global_Tiananmen_Square.pdf
 !slave | title_head: -1
 !slave | geometry: a4paper
 ---
-
 <IDX: China>
 
 # Tiananmen Square
