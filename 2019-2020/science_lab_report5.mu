@@ -8,7 +8,7 @@
 !slave | header: ,,
 !slave | footer: ,{page_number},
 ---
-!Inc: ../macros.mu
+!!Inc: ../macros.mu
 # Purpose
 
 In this lab I will be using titration to calculate concentration of vinegar.
@@ -55,3 +55,38 @@ $-log(3.8x10\^-10^) = 9.42$
 ()n(). repeat steps 1-()repeat() 1 more time
 
 ()n(). repeat steps 1-()repeat() without phenolphthalein
+
+# Data
+## numbers
+
+Molarity of NaOH from bottle: 1 molar
+
+<LINEBR>
+
+Trial 1 Volume of Vinegar: 15 mL
+
+Trial 1 Initial Burette Reading: 9.1 mL
+
+Trial 1 Equivalence Point Burette Reading: 22.6 mL
+
+Trial 1 Volume of NaOH used: 13.5 mL
+
+<LINEBR>
+
+Trial 2 Volume of Vinegar: 15 mL
+
+Trial 2 Initial Burette Reading: 22.6 mL
+
+Trial 2 Equivalence Point Burette Reading: 36.3 mL
+
+Trial 2 Volume of NaOH used: 14.3 mL
+
+## Table
+
+| Burette Reading | pH  | Voulme of NaOH
+|---|---|---|
+| 30.6 | 3.43 | 0.0 |
+| 30.1 | 4.18 | 0.5 |
+| 30.6 | 4.43 | 0.0 |
+| 30.6 | 4.62 | 0.0 |
+| 30.6 | 3.43 | 0.0 |

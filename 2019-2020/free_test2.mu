@@ -32,12 +32,12 @@ this is __BOLD__ and this is _EMPH_
 
 ## Tables
 
-!|3|4|
-!|---|----|
-!|nope|lol|
-!|nope|lol|
-!|nope|lol|
-!|nopel dffs hjds agfhj dskagfh jds kagfh ajkgfdsjhfd jsakgh|lol|
+|3|4|
+|---|----|
+|nope|lol|
+|nope|lol|
+|nope|lol|
+|nopel dffs hjds agfhj dskagfh jds kagfh ajkgfdsjhfd jsakgh|lol|
 
 !text after table
 
