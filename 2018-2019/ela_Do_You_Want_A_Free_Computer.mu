@@ -53,7 +53,7 @@ this is a valid case Open Source Software does not normally abide by these rules
 not normally copyrighted but even if it was the Open Source ethic allows one to share without
 a license, and its normally free. Another misconception is that Open Source development is
 that Open Source development is not professional. Even Bill Gates thought this in a letter
-that said ",'Who can afford to do professional work for nothing",'(Patric G. Marshall 1993)
+that said "'Who can afford to do professional work for nothing"'(Patric G. Marshall 1993)
 While this could be argued well again go back to the fact that Open Source Software is
 normally optional and done for entertainment so yes it is not a professional process it still is
 a efficient process.

@@ -1,36 +1,40 @@
 ---
 !slave | output: ../../pdf/science_lab_report5.pdf
 !slave | title_head: -1
-!slave | title: Using Ionic compounds to calculate Solubility product
+!slave | title: Using Titration to calculate Concentration
 !slave | title_page: True
 !slave | author: Preston Precourt
 !slave | geometry: a4paper
 !slave | header: ,,
 !slave | footer: ,{page_number},
 ---
-# Purpose
-
+<IF: ()needs_macros()>
 !Inc: ../macros.mu
+<ENDIF>
+# Purpose
 
 In this lab I will be using titration to calculate concentration of vinegar.
 The process we will use is titration.
 
 # pre-lab questions
 
-<SETCNT: 1>
+<PRP: START: 1>
+<PRS: ()SETCNT()>
 
-1. In this experiment vinegar will be the titrant and the sodium hydroxide will be the analyte.
+In this experiment vinegar will be the titrant and the sodium hydroxide will be the analyte.
 
-2. 25.0/1000 = 0.0250, 23.9/1000 = .0239, 0.0250 / .0239 * 1000 = 1.05
+
+$$25.0/1000 = 0.0250, 23.9/1000 = .0239, 0.0250 / .0239 * 1000 = 1.05$$
 The concentration is 1.05 M
-
-4. 
 
 $-log(3.8x10\^-10^) = 9.42$
 
+<PRS: ()ENDCNT()>
+
 # Procedure
 
-<SETCNT: 1>
+<PRP: START: 1>
+<PRS: ()SETCNT()>
 
 get a 50 ml burette, clamp it on a ring stand.
 
@@ -46,15 +50,15 @@ add 2 drops of phenolphthalein to the flask
 
 begin titration
 
-<SET: repeat = n>
+<PRP: repeat:()n()>
 
 end titration when the flask turns pink
 
-repeat steps 1-()repeat() 1 more time
+<PRS: repeat steps 1-()repeat() 1 more time>
 
-repeat steps 1-()repeat() without phenolphthalein
+<PRS: repeat steps 1-()repeat() without phenolphthalein>
 
-<ENDCNT>
+<PRS: ()ENDCNT()>
 # Data
 ## numbers
 
@@ -74,7 +78,7 @@ Trial 1 Moles of NaOH: .4589 Moles
 
 Trial 1 Moles of vinegar: .4589 Moles
 
-
+Trial 1 Concentration of vinegar: 3.06*10^-5
 
 <LINEBR>
 
@@ -89,6 +93,8 @@ Trial 2 Volume of NaOH used: 14.3 mL
 Trial 1 Moles of NaOH: .4862 Moles
 
 Trial 1 Moles of vinegar: .4862 Moles
+
+Trial 1 Concentration of vinegar: 3.24*10^-5
 
 ## Table
 
@@ -134,19 +140,19 @@ Burette Reading - pH  - Voulme of NaOH
 
 | Burette Reading | pH  | Voulme of NaOH |
 |-|-|-|
-| 17.6 | 11.65 | 13.0 |
-| 17.1 | 12.54 | 13.5 |
-| 16.6 | 12.75 | 14.0 |
-| 16.1 | 12.83 | 14.5 |
-| 15.6 | 12.91 | 15.0 |
-| 15.1 | 12.94 | 15.5 |
-| 14.6 | 12.97 | 16.0 |
-| 14.1 | 13.00 | 16.5 |
-| 13.6 | 13.00 | 17.0 |
-| 13.1 | 13.02 | 17.5 |
-| 12.6 | 13.02 | 18.0 |
-| 12.1 | 13.03 | 18.5 |
-| 11.6 | 13.04 | 19.0 |
+| 17.6 | 11.7 | 13.0 |
+| 17.1 | 12.5 | 13.5 |
+| 16.6 | 12.8 | 14.0 |
+| 16.1 | 12.8 | 14.5 |
+| 15.6 | 12.9 | 15.0 |
+| 15.1 | 12.9 | 15.5 |
+| 14.6 | 13.0 | 16.0 |
+| 14.1 | 13.0 | 16.5 |
+| 13.6 | 13.0 | 17.0 |
+| 13.1 | 13.0 | 17.5 |
+| 12.6 | 13.0 | 18.0 |
+| 12.1 | 13.0 | 18.5 |
+| 11.6 | 13.0 | 19.0 |
 
 <COL: 1>
 # post-lab Questions
@@ -162,14 +168,28 @@ $ph = -log(1.8x10\^-5^)$
 
 # calculations
 
-$33.998 g/mol * 13.5mL * 1L/1000mL = .4589 moles$
-$.4598 moles / (15mL * 1000) = 3.06*10\^-5^$
+## concentration
+
+$1 * 13.5mL * 1L/1000mL = .0135 moles$
+$.0135 moles / 15mL * 1000 = .9$
 <LIN:20>
-$33.998 g/mol * 14.3mL * 1L/1000mL = .4862 moles$
-$.4862 moles / (15mL * 1000) = 3.24*10\^-5^$
+$1 * 14.3mL * 1L/1000mL = .0143 moles$
+$.0143 moles / 15mL * 1000 = .9533$
+
+## %error
+
+$(.9267-.8)/.8 = 15.8375%$
 
 # Report
 
-In this lab I will be using titration to calculate concentration of vinegar.
+In this lab I used titration to calculate concentration of vinegar.
+The vinegar was neutralized with a base.
 
-In the end the results show the concentration of the vinegar was 3.15.
+In the end the results show the concentration of the vinegar was .9267.
+That results in the percent error being 15.8375 percent.
+The error could be due to not stopping the titration soon enough, or
+mis measuring the amount of vinegar.
+
+If I were to do this lab again i would be more careful when measuring the NaOH.
+
+<COL:2>

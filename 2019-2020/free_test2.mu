@@ -3,9 +3,9 @@
 !slave | title_head: -1
 !slave | geometry: a4paper
 ---
+<IF: ()needs_macros()>
 !Inc: ../macros.mu
-
-<COL: 1>
+<ENDIF>
 
 # Test 2
 
@@ -22,59 +22,22 @@ __BOLD__
 
 _EMPH_
 
-this is __BOLD__ and this is _EMPH_
-
-## Comments
-
-!this is a comment
-
-!If: this: is an if statment
+this is __BOLD__ and this is _emph_
 
 ## Tables
-
-|3|4|
-|---|----|
+|1|2|
+|-|-|
 |nope|lol|
 |nope|lol|
 |nope|lol|
-|nopel dffs hjds agfhj dskagfh jds kagfh ajkgfdsjhfd jsakgh|lol|
+|nofdshafdjksahfjkd lsahfjkdshajkfldshajfkhds jaklfdhjkahfdjkslah fjdkslahfjkdsape|lol|
 
-!text after table
+text after table
 
-<LINEBR>
+# numbered lists
 
-## Lines
-
-21% line
-
-<LIN: 21>
-
-110% line ->
-105% line ->
-100% line
-
-<LIN: 110>
-<LIN: 105>
-<LIN>
-
-
-## improper tags
-
-<COL: 4fdsafdsajndsja>
-<SET: 4fdsafdsajndsja = lol>
-var "4fdsafdsajndsja" set to "()4fdsafdsajndsja()"
-<SET: 4fdsafdsajndsja>
-var "4fdsafdsajndsja" set to "()4fdsafdsajndsja()"
-
-<LIN: 21>
-
-## Column test
-
-## numbered lists
-
-<COL: 2>
-
-<SETCNT: 1>
+<PRP: START:1>
+<PRS: ()SETCNT()>
 
 do stuff
 
@@ -86,9 +49,12 @@ do stuff
 
 do stuff
 
-<SETCNT: 999995>
+<PRS: ()ENDCNT()>
 
 ...
+
+<PRP: START: 96>
+<PRS: ()SETCNT()>
 
 do stuff
 
@@ -100,11 +66,6 @@ do stuff
 
 done
 
-<ENDCNT>
+<PRS: ()ENDCNT()>
 
-<COL: 1>
-
-# HEADING 1
-## HEADING 2
-### HEADING 3
-
+lololol

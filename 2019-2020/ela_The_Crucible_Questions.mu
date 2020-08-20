@@ -3,6 +3,7 @@
 !slave | title_head: -1
 !slave | geometry: a4paper
 ---
+<COL: 2>
 <IDX: Crucible, The>
 
 # The Crucible Questions

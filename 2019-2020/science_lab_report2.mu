@@ -33,13 +33,13 @@ $$PV=nRT$$
 
 $$n=\\frac{PV}{RT}=\\frac{0.980*.5L}{0.0821*298K}=.002mol$$
 
-.002 moles of $O_2$ are expected.
+.002 moles of $O2$ are expected.
 
 ## Question 4
 
 $$O_2=10.00mL H_2O_2 * 1.02\\frac{g}{mL} * \\frac{1molH_2O}{34gH_2O_2} * \\frac{1molO_2}{2molH_2O_2}$$
 
-.15 grams of $O_2$ are expected.
+.15 grams of $O2$ are expected.
 
 <NEWPAGE>
 
@@ -56,7 +56,7 @@ $$O_2=10.00mL H_2O_2 * 1.02\\frac{g}{mL} * \\frac{1molH_2O}{34gH_2O_2} * \\frac{
 
 5. take the temperature of the 600mL beaker.
 
-6. put 5.00mL of $H_2O_2$ in Erlenmeyer flask.
+6. put 5.00mL of $H2O2$ in Erlenmeyer flask.
 
 7. flip the 100mL graduated cylinder in the 600mL beaker.
 
@@ -84,7 +84,7 @@ $$O_2=10.00mL H_2O_2 * 1.02\\frac{g}{mL} * \\frac{1molH_2O}{34gH_2O_2} * \\frac{
 
 Final Volume: 41mL
 
-Volume of $O_2$: 23mL
+Volume of $O2$: 23mL
 
 Time reaction started: 0 sec
 
@@ -136,11 +136,11 @@ but the more catalyst you use the more catalyst you need.
 # Report
 
 \\fontsize{12pt}{24pt}\\selectfont
-In this lab I measured the results of the decomposition of $H_2O_2$ using a catalyst.
+In this lab I measured the results of the decomposition of $H2O2$ using a catalyst.
 To acquire my data I used a graduated cylinder that collected oxygen.
 The purpose of the lab was to use the ideal gas law to calculate percent composition.
 
-\\indent I found that the produced $O_2$ was less than expected when decomposing 3% $H_2O_2$.
+\\indent I found that the produced $O2$ was less than expected when decomposing 3% $H2O2$.
 In the end I got that the percent composition was 1.279% which leads to a 42.633% yield.
 
 \\indent This may be due to the reaction not completely finishing, a leaky tube or stopper, or not putting the stopper on fast enough.

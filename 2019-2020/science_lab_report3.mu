@@ -8,7 +8,9 @@
 !slave | header: ,,
 !slave | footer: ,{page_number},
 ---
+<IF: ()needs_macros()>
 !Inc: ../macros.mu
+<ENDIF>
 
 # using absorption to calculate concentration
 
@@ -64,7 +66,8 @@ H: 0.0x1x130,000 = .0
 
 ## Procedure
 
-<SETCNT: 1>
+<SET: START=1>
+<PRS: ()SETCNT()>
 
 Turn on the spectrophotometer 15-20 minutes in advanced
 
@@ -74,7 +77,7 @@ get 50mL of stock solution containing blue dye
 
 use serological pipet to measure volumes of the solutions
 
-<ENDCNT>
+<PRS: ()ENDCNT()>
 
 ## Data Table
 

@@ -3,8 +3,9 @@
 ---
 <IDX: Civil war; Union; Confederacy; Reconstruction>
 
-# Post Civil War (reconstruction)
+# Post Civil War
 
+- also known as (reconstruction)
 - questions
   - how will the south rejoin the union
   - how will we recover south govt.

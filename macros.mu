@@ -1,2 +1,10 @@
-<MAC: CNT: n=1;SET: n=%1; SET:prepend=()n(). ;= SETCNT>
-<MAC: SET: prepend ;= ENDCNT>
+---
+SETCNT:;
+<PRP: n:()START()>
+<PRP: n:+1>
+<PRP: prepend:[]n[].>;
+ENDCNT:;
+<PRP: prepend:[][]>;
+needs_macros: False
+---
+!filler

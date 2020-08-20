@@ -47,7 +47,8 @@ KSP = [AG]^2[CrO4]
 
 ## part 1
 
-<SETCNT: 1>
+<PRP: START: 1>
+<PRS: ()SETCNT()>
 
 make sure you have 12 wells from right to left
 
@@ -77,7 +78,7 @@ put 5 drops of sodium hydroxide in wells 1-12
 
 use a pipette to  
 
-<ENDCNT>
+<PRS: ()ENDCNT()>
 
 # Calculation 
 
