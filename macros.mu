@@ -2,9 +2,9 @@
 SETCNT:;
 <PRP: n:()START()>
 <PRP: n:+1>
-<PRP: prepend:[]n[].>;
+<PRP: prepend:||n||.>;
 ENDCNT:;
-<PRP: prepend:[][]>;
+<PRP: prepend:()()>;
 BPHEIGHT: 10
 BOXPLOT:;
 ```{python}

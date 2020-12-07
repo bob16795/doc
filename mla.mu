@@ -28,6 +28,8 @@ CITE:;
 <PRP: CLocation: CLocation>
 ;
 HEADINGBLOCK:;
+
+<COL: 1>
 <NINDENT>
 
 []Author[]
@@ -45,6 +47,9 @@ print(today.strftime("%e %B %Y"))
 <indent>
 ;
 TITLEBLOCK:;
+<IF: []slave[]>
+<PAG>
+<ENDIF>
 <CENTER>
 <JUST>
 <NINDENT>
@@ -58,8 +63,9 @@ TITLEBLOCK:;
 LineSpacing: 8.8
 ENDMLA:;
 <PRP: LineSpacing: 2.4>
+<NINDENT>
+<COL: 2>
 ;
-header: ,,{author} {page_number}
-footer: ,,
 ---
-!filler
+!usage
+!
