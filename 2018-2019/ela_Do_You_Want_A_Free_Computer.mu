@@ -2,10 +2,18 @@
 !slave | output: ../../pdf/ela_Do_You_Want_a_Free_Computer.pdf
 !slave | title_head: -1
 !slave | geometry: a4paper
+!slave | Title: Do You Want A Free Computer
+!slave | Author: Preston Precourt
+!slave | author: Precourt
+!slave | Teacher: Ganter 
+!slave | Class: ELA 12
+slave | inside: true
 ---
-<IDX: Open Source; Freedom; Computer>
+!Inc: ../mla.mu
 
-# Do You Want A Free Computer
+<PRS: ()HEADINGBLOCK()>
+<PRS: ()TITLEBLOCK()>
+<IDX: Open Source; Freedom; Computer>
 
 What is a computer; a computer is just memory attached to some simple arithmetic units.
 Programming a computer was originally started as just ones and zeros. This is because
@@ -63,3 +71,11 @@ rewards. The process of Becoming an Open Source civilization is also very risky 
 possible Helping business become a easier thing is important for economy. But do people
 have enough will to do so Open Source is an ethic used by the people who do. Yes the future
 might be great but will it be Open Source?
+
+<PRS: ()BIBSTART()>
+<PRP: CName: Ball & Cruz>
+<PRP: CTitle: "Human Freedom and Free Software: Why Choices About Technology Matter To Human Right Activists">
+<PRP: CPublisher: Something>
+<PRP: CDate: 2003>
+<PRP: CLocation: Web Article>
+<PRS: ()CITE()>

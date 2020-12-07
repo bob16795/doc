@@ -3,6 +3,8 @@
 !slave | title_head: -1
 !slave | geometry: a4paper
 ---
+!Inc: ../macros.mu
+
 # Free Test 3
 ## math
 
@@ -28,8 +30,8 @@ echo lol
 ```
 
 ```{R -s -f}
-num_list <- list(1,2,3,4,5)       #Author DataFlair
-print(summary(num_list))
+num_list <- list(1,2,3,4,5)
+print(gsub(" ", "\\ ", toString(summary(num_list))))
 ```
 
 <IF: ()lol()>
@@ -45,3 +47,8 @@ lol is defined
 <IF:()lol()>
 lol is false
 <ENDIF>
+
+<PRP: BP:1 2 3 4 5>
+<PRS: ()BOXPLOT()>
+
+<LNK: https://esolangs.org/wiki/Segreq;Segreq>
