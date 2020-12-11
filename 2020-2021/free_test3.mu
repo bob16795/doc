@@ -39,16 +39,16 @@ lol is not defined
 <ENDIF>
 <PRP: lol: True>
 
-<IF:()lol()>
+<IF: ()lol()>
 lol is defined
 <ENDIF>
 <PRP: lol: False >
 
-<IF:()lol()>
+<IF: ()lol()>
 lol is false
 <ENDIF>
 
 <PRP: BP:1 2 3 4 5>
 <PRS: ()BOXPLOT()>
 
-<LNK: https://esolangs.org/wiki/Segreq;Segreq>
+<LNK: https://esolangs.org/wiki/Segreq; Segreq>
